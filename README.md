@@ -74,18 +74,6 @@ A arquitetura do banco de dados analítico foi desenhada no modelo estrela (Star
 
 ---
 
-## 📁 Estrutura do Repositório
-
-Os artefatos estão organizados conforme o padrão de entregas da FATEC SP:
-
-```text
-MA2026-projeto-pratico/
-├── MA2026-entrega-parcial/
-│   ├── 01-excel/             # Planilhas tratadas e documentação de fórmulas (PROCX, etc)
-│   ├── 02-powerquery/        # Scripts M e fluxos de transformação
-│   ├── 03-powerpivot/        # Modelo dimensional e medidas DAX
-│   └── 04-documentacao/      # Proposta Técnica e relatórios parciais
-└── MA2026-entrega-final/
     ├── 01-vba/               # Módulos exportados (.bas) e planilhas com macro
     ├── 02-bancodedados-sql/  # Scripts DDL (Criação) e DML (Consultas)
     ├── 03-api-web/           # Documentação e scripts de extração JSON
