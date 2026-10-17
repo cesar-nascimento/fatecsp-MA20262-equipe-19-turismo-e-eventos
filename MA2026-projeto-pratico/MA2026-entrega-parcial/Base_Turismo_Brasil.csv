@@ -1,0 +1,1001 @@
+﻿ID_Registro;Data;Localidade;Estado;Regiao;Sazonalidade;Nome_Evento;Tipo_Evento;Hospedagens_Disponiveis;Hospedagens_Ocupadas;Taxa_Ocupacao_Perc;Visitantes_Estimados;Avaliacao_Media_Dia
+870;2023-01-02;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;12204;81.36;17718;3.4
+165;2023-01-02;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;16811;93.39;39337;3.7
+517;2023-01-03;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;18015;90.08;42884;4.3
+247;2023-01-03;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;11713;97.61;17877;4.0
+495;2023-01-04;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;11605;96.71;22342;3.8
+267;2023-01-06;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;18015;90.08;39089;3.2
+869;2023-01-06;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;11350;94.58;14329;4.0
+879;2023-01-07;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6703;83.79;9464;4.2
+320;2023-01-09;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;9896;82.47;14891;3.7
+129;2023-01-10;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;16326;81.63;32946;3.3
+641;2023-01-10;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;7293;91.16;13870;3.5
+663;2023-01-12;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;10049;83.74;18483;3.4
+205;2023-01-12;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;18683;93.42;42242;3.4
+24;2023-01-13;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;17575;97.64;27087;4.4
+296;2023-01-13;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;9318;77.65;18385;5.0
+47;2023-01-14;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6174;77.18;14499;4.6
+847;2023-01-15;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;13197;73.32;19770;4.5
+235;2023-01-15;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;16386;81.93;32143;3.3
+850;2023-01-17;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;46368;92.74;57814;3.9
+961;2023-01-18;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;17040;85.2;36482;3.9
+677;2023-01-20;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;38930;77.86;67928;4.0
+80;2023-01-21;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;15858;88.1;29447;3.2
+203;2023-01-21;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;14514;96.76;27168;3.3
+179;2023-01-21;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6928;86.6;16814;3.2
+408;2023-01-22;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;14203;71.02;26451;4.5
+834;2023-01-23;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;5950;74.38;7537;4.6
+265;2023-01-23;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;14239;94.93;32321;3.4
+207;2023-01-23;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6012;75.15;11398;4.0
+6;2023-01-24;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;16486;82.43;25271;3.2
+412;2023-01-26;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;10876;90.63;13764;3.5
+48;2023-01-27;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;37617;75.23;53774;4.1
+202;2023-01-28;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;16834;84.17;30368;3.1
+220;2023-01-29;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;12823;71.24;22663;4.3
+744;2023-01-29;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;35679;71.36;88891;4.3
+623;2023-01-29;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6241;78.01;9292;3.8
+741;2023-01-29;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;13546;90.31;25625;3.4
+38;2023-01-30;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;11883;79.22;14593;4.0
+332;2023-01-31;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;15039;75.2;22288;4.8
+263;2023-01-31;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;18902;94.51;24994;3.2
+448;2023-01-31;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;40643;81.29;71037;4.2
+736;2023-01-31;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;17174;95.41;20874;4.1
+91;2023-02-01;Foz do Iguaçu;PR;Sul;Carnaval;Carnaval;Festa Popular;18000;17386;96.59;27900;4.2
+522;2023-02-02;Foz do Iguaçu;PR;Sul;Carnaval;Carnaval;Festa Popular;18000;15615;86.75;24858;3.9
+960;2023-02-04;Campos do Jordão;SP;Sudeste;Carnaval;Carnaval;Festa Popular;12000;10202;85.02;12709;3.7
+588;2023-02-05;Foz do Iguaçu;PR;Sul;Carnaval;Carnaval;Festa Popular;18000;15679;87.11;19432;4.1
+683;2023-02-07;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;18919;94.59;40554;4.5
+558;2023-02-07;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;49804;99.61;60189;4.4
+656;2023-02-07;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;47462;94.92;109577;3.3
+323;2023-02-08;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;46927;93.85;88465;4.1
+554;2023-02-09;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;18670;93.35;27100;4.0
+385;2023-02-09;Campos do Jordão;SP;Sudeste;Carnaval;Carnaval;Festa Popular;12000;11373;94.77;18981;3.1
+792;2023-02-11;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;47483;94.97;110523;4.0
+49;2023-02-11;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;17625;88.12;41527;4.2
+476;2023-02-13;Bonito;MS;Centro-Oeste;Carnaval;Carnaval;Festa Popular;8000;6973;87.16;16924;3.5
+255;2023-02-13;Campos do Jordão;SP;Sudeste;Carnaval;Carnaval;Festa Popular;12000;11945;99.54;17652;3.1
+556;2023-02-13;Foz do Iguaçu;PR;Sul;Carnaval;Carnaval;Festa Popular;18000;17530;97.39;30973;4.3
+391;2023-02-13;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;43987;87.97;93701;3.4
+952;2023-02-14;Bonito;MS;Centro-Oeste;Carnaval;Carnaval;Festa Popular;8000;7270;90.88;9593;3.3
+673;2023-02-15;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;46441;92.88;101379;3.0
+290;2023-02-16;Gramado;RS;Sul;Carnaval;Carnaval;Festa Popular;15000;12996;86.64;25072;3.1
+26;2023-02-18;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;45711;91.42;58858;3.8
+314;2023-02-19;Foz do Iguaçu;PR;Sul;Carnaval;Carnaval;Festa Popular;18000;16654;92.52;28089;4.3
+311;2023-02-19;Gramado;RS;Sul;Carnaval;Carnaval;Festa Popular;15000;14770;98.47;25502;3.1
+77;2023-02-20;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;17945;89.72;30764;4.0
+788;2023-02-21;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;46112;92.22;57885;3.2
+979;2023-02-21;Foz do Iguaçu;PR;Sul;Carnaval;Carnaval;Festa Popular;18000;15772;87.62;31789;3.0
+871;2023-02-22;Bonito;MS;Centro-Oeste;Carnaval;Carnaval;Festa Popular;8000;7495;93.69;9759;3.3
+998;2023-02-22;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;19466;97.33;26040;4.3
+958;2023-02-23;Bonito;MS;Centro-Oeste;Carnaval;Carnaval;Festa Popular;8000;7114;88.92;9276;3.7
+771;2023-02-24;Gramado;RS;Sul;Carnaval;Carnaval;Festa Popular;15000;13166;87.77;29713;3.7
+228;2023-02-24;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;19973;99.87;30070;4.5
+139;2023-02-24;Campos do Jordão;SP;Sudeste;Carnaval;Carnaval;Festa Popular;12000;10433;86.94;14404;3.6
+17;2023-02-26;Bonito;MS;Centro-Oeste;Carnaval;Carnaval;Festa Popular;8000;7331;91.64;16652;3.4
+774;2023-03-01;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7528;50.19;12590;4.3
+271;2023-03-02;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;7156;59.63;11181;4.1
+206;2023-03-03;Gramado;RS;Sul;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;15000;9073;60.49;12820;5.0
+7;2023-03-04;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9511;52.84;23131;4.5
+647;2023-03-04;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2472;30.9;3488;4.0
+806;2023-03-04;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;17249;34.5;25986;3.9
+27;2023-03-04;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2889;36.11;5926;4.4
+493;2023-03-05;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4538;56.73;8292;4.4
+856;2023-03-06;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;4646;30.97;6371;4.4
+23;2023-03-10;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;25462;50.92;40903;3.8
+381;2023-03-11;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;50000;40806;81.61;68772;3.1
+799;2023-03-11;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3713;30.94;5070;4.3
+665;2023-03-11;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10447;52.23;15555;4.3
+570;2023-03-12;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7912;43.96;12579;4.5
+477;2023-03-12;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;7194;59.95;11221;4.6
+201;2023-03-13;Foz do Iguaçu;PR;Sul;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;18000;14673;81.52;27537;3.2
+439;2023-03-13;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6151;30.75;12649;4.9
+987;2023-03-14;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;9247;46.23;15108;4.2
+127;2023-03-15;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;9176;45.88;15310;4.8
+854;2023-03-15;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4233;52.91;9487;4.5
+367;2023-03-16;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;29581;59.16;53724;4.4
+702;2023-03-17;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7734;51.56;9506;4.6
+938;2023-03-17;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9370;52.06;13898;4.8
+149;2023-03-19;Foz do Iguaçu;PR;Sul;Baixa Temporada;Festival de Música;Corporativo/Lazer;18000;11586;64.37;18566;4.5
+637;2023-03-19;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7913;43.96;17877;4.0
+512;2023-03-20;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3752;46.9;6935;3.9
+607;2023-03-21;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6922;46.15;13498;4.6
+853;2023-03-21;Gramado;RS;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;15000;11066;73.77;26171;4.4
+603;2023-03-22;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3749;46.86;8510;4.2
+394;2023-03-22;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;22877;45.75;30300;4.9
+334;2023-03-23;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2598;32.48;6293;4.5
+295;2023-03-25;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;4532;30.21;8755;4.1
+161;2023-03-25;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;9399;46.99;22821;4.4
+931;2023-03-25;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;9494;47.47;12286;4.7
+2;2023-03-26;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8518;56.79;19738;4.5
+406;2023-03-26;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;7326;36.63;9324;4.9
+407;2023-03-27;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3545;44.31;8103;4.0
+353;2023-03-27;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;4821;32.14;6462;4.0
+687;2023-03-29;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4134;51.68;6608;4.9
+803;2023-03-30;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4578;38.15;10019;4.7
+726;2023-04-01;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7154;47.69;10845;3.8
+237;2023-04-01;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8704;58.03;11145;4.9
+762;2023-04-02;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6045;30.23;10893;4.0
+999;2023-04-03;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4827;40.23;6676;4.1
+758;2023-04-04;Campos do Jordão;SP;Sudeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;12000;8807;73.39;19365;4.2
+508;2023-04-05;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3116;38.95;6555;4.3
+986;2023-04-05;Gramado;RS;Sul;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;15000;12740;84.93;25664;4.4
+827;2023-04-06;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6748;44.99;12763;3.9
+409;2023-04-07;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;24508;49.02;43071;4.3
+458;2023-04-07;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;16631;33.26;27582;4.7
+356;2023-04-10;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6847;57.06;10046;4.7
+652;2023-04-10;Foz do Iguaçu;PR;Sul;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;18000;12516;69.53;28929;4.3
+219;2023-04-12;Porto Seguro;BA;Nordeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;20000;13751;68.75;20430;4.6
+32;2023-04-12;Bonito;MS;Centro-Oeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;8000;6346;79.33;8042;4.6
+555;2023-04-14;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3685;30.71;7773;4.8
+670;2023-04-14;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8056;53.71;10472;4.4
+158;2023-04-14;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;20830;41.66;49819;4.9
+831;2023-04-15;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4410;55.12;9637;4.6
+719;2023-04-16;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2963;37.04;6117;3.9
+644;2023-04-16;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4642;38.68;6131;4.0
+198;2023-04-16;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8236;45.76;16222;4.8
+519;2023-04-16;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9120;50.67;21838;4.3
+294;2023-04-18;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5333;35.55;11363;4.0
+341;2023-04-18;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4038;33.65;6562;4.4
+350;2023-04-19;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4387;54.84;5279;4.8
+767;2023-04-19;Foz do Iguaçu;PR;Sul;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;18000;14821;82.34;18620;4.1
+917;2023-04-19;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8736;58.24;12308;3.9
+568;2023-04-20;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;7727;38.64;13853;3.8
+420;2023-04-21;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;5462;30.34;12750;4.4
+22;2023-04-21;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8836;58.91;13055;3.8
+615;2023-04-23;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;6547;36.37;13892;4.9
+837;2023-04-24;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;4755;31.7;9477;4.9
+750;2023-04-24;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;15739;31.48;33721;3.9
+251;2023-04-25;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3129;39.11;5516;4.4
+772;2023-04-26;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;27429;54.86;48274;4.8
+436;2023-04-28;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;16203;32.41;31833;4.9
+577;2023-04-28;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;5767;32.04;10097;4.7
+543;2023-04-28;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;24042;48.08;54832;4.3
+685;2023-04-29;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10360;51.8;22217;4.5
+453;2023-05-01;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;28987;57.97;67564;4.1
+378;2023-05-02;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5760;48.0;14212;3.9
+716;2023-05-02;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;10729;59.61;15723;4.8
+964;2023-05-03;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9169;50.94;15343;4.4
+518;2023-05-04;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;50000;40609;81.22;61476;4.1
+514;2023-05-05;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;22830;45.66;30552;4.7
+617;2023-05-05;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4069;50.86;8635;4.9
+346;2023-05-05;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3945;32.88;5395;3.8
+492;2023-05-06;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;5432;30.18;12032;4.2
+638;2023-05-06;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;29839;59.68;74408;4.6
+342;2023-05-06;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;29754;59.51;38317;4.0
+53;2023-05-08;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6940;46.27;13989;4.4
+137;2023-05-08;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4085;51.06;6266;4.2
+31;2023-05-08;Bonito;MS;Centro-Oeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;8000;6406;80.08;9397;4.1
+618;2023-05-10;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;50000;34439;68.88;67759;3.9
+597;2023-05-10;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5191;34.61;7944;4.5
+217;2023-05-10;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3583;44.79;7633;5.0
+382;2023-05-11;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;7133;35.66;9726;4.6
+288;2023-05-12;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;15231;30.46;30363;4.6
+973;2023-05-13;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;24990;49.98;59336;4.0
+384;2023-05-14;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4491;56.14;9878;4.2
+965;2023-05-14;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6581;43.87;9458;4.0
+946;2023-05-15;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7880;43.78;14520;4.7
+790;2023-05-16;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3544;44.3;5979;4.0
+262;2023-05-16;Foz do Iguaçu;PR;Sul;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;18000;11810;65.61;21411;4.9
+291;2023-05-18;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3276;40.95;5146;4.6
+344;2023-05-21;Bonito;MS;Centro-Oeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;8000;7409;92.61;11988;4.2
+713;2023-05-21;Foz do Iguaçu;PR;Sul;Baixa Temporada;Festival de Música;Corporativo/Lazer;18000;15977;88.76;21916;3.1
+211;2023-05-23;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;17057;34.11;36427;3.9
+706;2023-05-23;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9527;52.93;14149;4.3
+132;2023-05-24;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;10713;59.52;14903;4.0
+377;2023-05-24;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;9473;47.37;14575;4.5
+802;2023-05-27;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6635;33.17;7979;3.8
+243;2023-05-27;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6544;43.63;15310;4.9
+277;2023-05-28;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6598;54.98;11614;4.6
+988;2023-05-28;Bonito;MS;Centro-Oeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;8000;6732;84.15;9323;3.6
+396;2023-05-29;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;11523;57.62;15058;4.7
+787;2023-05-29;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;21500;43.0;41077;4.1
+587;2023-05-29;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3580;44.75;4299;4.9
+345;2023-05-29;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4040;33.67;7667;4.5
+791;2023-05-29;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6455;53.79;10052;4.3
+163;2023-05-31;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3029;37.86;4705;5.0
+740;2023-06-02;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4850;40.42;8126;3.8
+379;2023-06-02;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8100;45.0;13629;4.4
+852;2023-06-03;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5767;48.06;13448;4.8
+524;2023-06-05;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6494;54.12;12100;5.0
+624;2023-06-05;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;9544;47.72;14357;4.8
+858;2023-06-06;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;10142;56.34;17299;3.9
+35;2023-06-06;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10511;52.55;14089;4.4
+366;2023-06-06;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4536;56.7;7335;4.0
+167;2023-06-08;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6249;31.25;13969;3.8
+333;2023-06-10;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8817;48.98;14986;3.9
+715;2023-06-10;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;21285;42.57;43887;4.6
+225;2023-06-11;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;26130;52.26;64955;4.1
+884;2023-06-11;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2461;30.76;5185;4.1
+801;2023-06-11;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2555;31.94;3703;4.7
+465;2023-06-13;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6143;51.19;14368;3.9
+942;2023-06-14;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7985;53.23;18457;4.3
+819;2023-06-15;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6271;31.36;11310;4.3
+335;2023-06-15;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3974;33.12;8821;3.9
+102;2023-06-16;Porto Seguro;BA;Nordeste;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;20000;11091;55.45;13881;4.5
+281;2023-06-17;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;8128;40.64;16128;5.0
+51;2023-06-18;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7254;48.36;9398;4.4
+109;2023-06-19;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5219;43.49;8475;3.9
+376;2023-06-19;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8236;45.76;20063;4.7
+697;2023-06-20;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6529;54.41;11678;4.2
+268;2023-06-21;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;19658;39.32;23935;4.9
+902;2023-06-21;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6526;43.51;9215;4.7
+560;2023-06-22;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4753;59.41;8822;4.6
+769;2023-06-22;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4669;38.91;6996;4.0
+509;2023-06-23;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7542;50.28;16222;4.4
+190;2023-06-23;Porto Seguro;BA;Nordeste;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;20000;12074;60.37;25692;4.3
+293;2023-06-23;Bonito;MS;Centro-Oeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;8000;6163;77.04;9984;4.2
+460;2023-06-24;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;8113;40.56;13134;4.3
+664;2023-06-24;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4457;37.14;7964;4.7
+620;2023-06-24;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7092;39.4;12374;4.8
+749;2023-06-26;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6215;41.43;8726;4.0
+110;2023-06-26;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;5930;32.94;10103;3.9
+147;2023-06-27;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3788;47.35;5387;4.7
+264;2023-06-27;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4552;56.9;5645;3.9
+657;2023-06-28;Bonito;MS;Centro-Oeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;8000;6651;83.14;10009;3.3
+482;2023-06-30;Foz do Iguaçu;PR;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;18000;13289;73.83;25994;4.5
+711;2023-07-01;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;14537;72.69;19786;3.8
+478;2023-07-03;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Feira Gastronômica;Corporativo/Lazer;50000;50000;100.0;95778;3.5
+349;2023-07-04;Gramado;RS;Sul;Férias de Julho;Festival de Inverno;Cultura;15000;13262;88.41;28273;4.2
+688;2023-07-04;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;6023;75.29;13881;4.9
+994;2023-07-05;Foz do Iguaçu;PR;Sul;Férias de Julho;Sem Evento;N/A;18000;10949;60.83;13381;4.6
+316;2023-07-08;Gramado;RS;Sul;Férias de Julho;Festival de Inverno;Cultura;15000;13845;92.3;30742;3.9
+490;2023-07-09;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;16849;84.25;33667;4.1
+829;2023-07-10;Foz do Iguaçu;PR;Sul;Férias de Julho;Sem Evento;N/A;18000;14717;81.76;33508;3.9
+148;2023-07-10;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;6228;77.85;10633;4.1
+777;2023-07-10;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;39952;79.9;72637;4.1
+748;2023-07-11;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;11815;98.46;28345;3.4
+462;2023-07-11;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;15282;76.41;22508;4.5
+906;2023-07-11;Gramado;RS;Sul;Férias de Julho;Festival de Inverno;Cultura;15000;14935;99.57;26131;3.3
+123;2023-07-11;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;14115;70.58;32659;4.3
+686;2023-07-12;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;32679;65.36;60520;4.0
+452;2023-07-12;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Feira Gastronômica;Corporativo/Lazer;50000;50000;100.0;96575;4.2
+848;2023-07-14;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;15070;75.35;25747;5.0
+579;2023-07-14;Gramado;RS;Sul;Férias de Julho;Festival de Inverno;Cultura;15000;13526;90.17;26837;3.6
+340;2023-07-14;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;10806;90.05;20658;4.4
+729;2023-07-15;Porto Seguro;BA;Nordeste;Férias de Julho;Feira Gastronômica;Corporativo/Lazer;20000;18569;92.84;33754;3.1
+918;2023-07-16;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Feira Gastronômica;Corporativo/Lazer;50000;50000;100.0;68703;3.9
+472;2023-07-16;Gramado;RS;Sul;Férias de Julho;Festival de Inverno;Cultura;15000;14386;95.91;33255;3.6
+390;2023-07-18;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;10461;87.17;24341;4.1
+260;2023-07-18;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;32171;64.34;57836;4.0
+920;2023-07-19;Foz do Iguaçu;PR;Sul;Férias de Julho;Sem Evento;N/A;18000;14044;78.02;33726;3.8
+373;2023-07-19;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;11391;94.92;21554;4.4
+447;2023-07-20;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;11686;97.38;23271;3.3
+582;2023-07-21;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;10446;87.05;23065;4.4
+166;2023-07-21;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;4944;61.8;9328;4.8
+113;2023-07-21;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;4921;61.51;11484;4.1
+112;2023-07-23;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;15735;78.67;19494;3.9
+842;2023-07-23;Gramado;RS;Sul;Férias de Julho;Festival de Inverno;Cultura;15000;13759;91.73;25407;3.3
+76;2023-07-24;Gramado;RS;Sul;Férias de Julho;Festival de Inverno;Cultura;15000;13016;86.77;28775;3.7
+191;2023-07-25;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;5467;68.34;12959;4.7
+276;2023-07-25;Foz do Iguaçu;PR;Sul;Férias de Julho;Sem Evento;N/A;18000;11154;61.97;20174;4.5
+506;2023-07-25;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;11125;92.71;23857;3.1
+99;2023-07-26;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;5822;72.78;8001;4.6
+530;2023-07-26;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;37048;74.1;62512;4.2
+948;2023-07-27;Foz do Iguaçu;PR;Sul;Férias de Julho;Sem Evento;N/A;18000;14587;81.04;21513;4.2
+954;2023-07-27;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;6297;78.71;14352;4.8
+678;2023-07-27;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;5641;70.51;8855;4.5
+10;2023-07-28;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;11926;99.38;20765;4.4
+725;2023-07-29;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;10200;85.0;23189;4.4
+85;2023-07-29;Foz do Iguaçu;PR;Sul;Férias de Julho;Sem Evento;N/A;18000;14486;80.48;29996;3.0
+28;2023-07-30;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;39481;78.96;67571;4.6
+446;2023-08-01;Porto Seguro;BA;Nordeste;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;20000;12306;61.53;20863;4.8
+200;2023-08-02;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8808;48.93;15536;3.9
+357;2023-08-02;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3584;44.8;7179;4.0
+124;2023-08-02;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6757;56.31;13704;4.2
+689;2023-08-02;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4175;52.19;8440;4.8
+633;2023-08-03;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7652;51.01;10848;4.4
+15;2023-08-03;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8850;59.0;11260;4.9
+547;2023-08-04;Gramado;RS;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;15000;10217;68.11;22937;4.2
+649;2023-08-05;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9001;50.01;20425;4.1
+703;2023-08-05;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;50000;39482;78.96;55670;5.0
+698;2023-08-07;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;5693;31.63;10540;4.8
+625;2023-08-08;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6631;44.21;12223;4.0
+628;2023-08-08;Campos do Jordão;SP;Sudeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;12000;9317;77.64;19737;4.5
+516;2023-08-08;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4316;53.95;9790;4.3
+108;2023-08-08;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3935;32.79;9013;4.7
+975;2023-08-09;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2561;32.01;6136;4.0
+541;2023-08-09;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4677;38.98;11253;4.8
+989;2023-08-10;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3998;49.98;7740;4.9
+840;2023-08-10;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3302;41.27;4701;4.4
+86;2023-08-10;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;11674;58.37;23665;4.3
+860;2023-08-11;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9528;52.93;20822;4.3
+775;2023-08-11;Foz do Iguaçu;PR;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;18000;10915;60.64;24408;4.4
+592;2023-08-11;Porto Seguro;BA;Nordeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;20000;15020;75.1;31660;4.3
+564;2023-08-11;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5730;38.2;12021;4.6
+764;2023-08-12;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;50000;39474;78.95;66864;4.4
+739;2023-08-12;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3811;31.76;5978;4.1
+557;2023-08-12;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6194;41.29;12796;4.9
+612;2023-08-13;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3779;47.24;5140;4.4
+606;2023-08-13;Gramado;RS;Sul;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;15000;13607;90.71;31779;4.2
+705;2023-08-14;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10782;53.91;15869;4.2
+486;2023-08-15;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7561;50.41;9568;3.8
+364;2023-08-15;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;19734;39.47;37927;4.2
+37;2023-08-16;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;27016;54.03;58255;4.5
+800;2023-08-16;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;23381;46.76;29800;4.7
+329;2023-08-19;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3284;41.05;5937;4.6
+781;2023-08-20;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9321;51.78;13805;4.0
+501;2023-08-20;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;23265;46.53;34590;4.4
+720;2023-08-21;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8978;49.88;11196;4.8
+621;2023-08-21;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4001;50.01;5543;4.2
+785;2023-08-21;Campos do Jordão;SP;Sudeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;12000;11174;93.12;21867;3.7
+331;2023-08-23;Foz do Iguaçu;PR;Sul;Baixa Temporada;Festival de Música;Corporativo/Lazer;18000;13458;74.77;32338;4.0
+164;2023-08-24;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10668;53.34;17584;4.2
+959;2023-08-25;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;28966;57.93;43142;4.3
+572;2023-08-26;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;50000;38162;76.32;73323;4.4
+759;2023-08-27;Campos do Jordão;SP;Sudeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;12000;7571;63.09;9408;4.0
+250;2023-08-28;Foz do Iguaçu;PR;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;18000;12528;69.6;17025;4.5
+682;2023-08-29;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3600;30.0;5412;4.1
+231;2023-08-29;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4390;36.58;10187;4.2
+818;2023-08-29;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2410;30.12;4354;3.8
+704;2023-08-30;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7857;43.65;19464;4.4
+348;2023-08-31;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8780;58.53;20142;4.6
+438;2023-08-31;Porto Seguro;BA;Nordeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;20000;13869;69.34;23409;4.4
+505;2023-08-31;Campos do Jordão;SP;Sudeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;12000;9091;75.76;16175;4.6
+718;2023-09-03;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;26658;53.32;56435;5.0
+694;2023-09-04;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9672;53.73;21612;4.4
+861;2023-09-04;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4418;55.23;8139;4.7
+700;2023-09-05;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4341;36.18;5823;4.5
+21;2023-09-05;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;11555;57.77;24951;4.0
+813;2023-09-06;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6970;34.85;16925;3.9
+3;2023-09-08;Porto Seguro;BA;Nordeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;20000;14997;74.98;29295;4.5
+728;2023-09-08;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2458;30.73;5102;4.6
+56;2023-09-10;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7260;40.33;15154;4.7
+784;2023-09-10;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8574;47.63;15826;4.7
+910;2023-09-11;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4372;36.43;10849;4.3
+39;2023-09-11;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3229;40.36;7051;4.2
+521;2023-09-13;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4532;56.65;8214;4.2
+642;2023-09-16;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6616;55.13;8986;4.3
+763;2023-09-16;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6169;30.84;14540;4.3
+307;2023-09-16;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;5471;30.39;7535;4.6
+180;2023-09-18;Bonito;MS;Centro-Oeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;8000;5667;70.84;10826;4.0
+272;2023-09-18;Campos do Jordão;SP;Sudeste;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;12000;7424;61.87;13745;4.0
+87;2023-09-19;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7758;43.1;17935;3.9
+863;2023-09-21;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8624;57.49;19836;4.4
+751;2023-09-21;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3818;47.73;9077;3.9
+913;2023-09-22;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;10554;58.63;15110;4.6
+266;2023-09-22;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8185;54.57;11077;4.8
+826;2023-09-23;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;15877;31.75;34353;4.6
+934;2023-09-23;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7884;52.56;11111;4.1
+466;2023-09-23;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9499;52.77;23595;4.1
+83;2023-09-24;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;23335;46.67;28858;4.3
+475;2023-09-24;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;6675;37.08;10830;4.3
+131;2023-09-25;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5697;37.98;7875;4.3
+887;2023-09-26;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6352;31.76;8360;4.2
+145;2023-09-26;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;8272;41.36;12834;4.2
+313;2023-09-26;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;21904;43.81;48827;4.4
+662;2023-09-28;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;7064;58.87;10914;4.7
+153;2023-09-29;Gramado;RS;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;15000;12950;86.33;28098;3.7
+997;2023-09-30;Porto Seguro;BA;Nordeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;20000;18863;94.31;36777;3.4
+502;2023-09-30;Gramado;RS;Sul;Baixa Temporada;Festival de Música;Corporativo/Lazer;15000;10650;71.0;15832;4.8
+274;2023-09-30;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8550;47.5;18628;5.0
+581;2023-09-30;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9080;50.44;17437;4.1
+244;2023-10-01;Bonito;MS;Centro-Oeste;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;8000;5561;69.51;8294;4.4
+189;2023-10-02;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3814;47.67;5084;3.8
+441;2023-10-03;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3491;43.64;6605;4.2
+245;2023-10-04;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7446;49.64;16698;4.1
+723;2023-10-06;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;50000;43562;87.12;59670;3.5
+289;2023-10-06;Gramado;RS;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;15000;9577;63.85;11845;4.6
+58;2023-10-08;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4712;58.9;9505;4.6
+427;2023-10-10;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;20243;40.49;34169;3.9
+400;2023-10-10;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10365;51.82;22527;3.8
+57;2023-10-11;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6284;41.89;11768;5.0
+126;2023-10-11;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3643;45.54;4911;4.0
+116;2023-10-12;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9132;50.73;22192;4.1
+393;2023-10-14;Campos do Jordão;SP;Sudeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;12000;8635;71.96;10643;4.0
+589;2023-10-14;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7210;48.07;12616;4.7
+836;2023-10-15;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;16548;33.1;28127;4.9
+915;2023-10-15;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;4903;32.69;6808;3.9
+134;2023-10-16;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6499;32.5;9481;4.1
+804;2023-10-16;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;10567;58.71;21109;4.8
+905;2023-10-17;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;50000;33637;67.27;54904;5.0
+550;2023-10-17;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;5682;31.57;10491;4.5
+544;2023-10-17;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4417;55.21;10272;4.3
+500;2023-10-17;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4575;38.12;8873;4.9
+671;2023-10-18;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8082;44.9;18960;4.5
+282;2023-10-19;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4518;37.65;7593;4.9
+20;2023-10-20;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;16476;32.95;20890;4.2
+855;2023-10-20;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8641;48.01;10474;4.5
+65;2023-10-21;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6101;50.84;12106;4.2
+578;2023-10-21;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4566;57.07;10482;4.3
+655;2023-10-22;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6298;52.48;11793;3.9
+594;2023-10-22;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;10217;56.76;15608;4.0
+866;2023-10-22;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;17319;34.64;41236;4.5
+36;2023-10-23;Campos do Jordão;SP;Sudeste;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;12000;11426;95.22;16492;3.5
+241;2023-10-23;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4509;37.57;8013;3.8
+531;2023-10-23;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;8443;42.22;15543;4.5
+585;2023-10-23;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3472;43.4;6720;4.6
+143;2023-10-24;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9903;55.02;24659;4.4
+59;2023-10-25;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6945;46.3;10473;4.2
+614;2023-10-27;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7429;49.53;17520;4.1
+142;2023-10-28;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;17378;34.76;40661;4.1
+68;2023-10-28;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;26929;53.86;41367;4.6
+437;2023-10-29;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;6319;35.11;11992;4.5
+951;2023-10-30;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6600;44.0;11244;4.8
+411;2023-10-30;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;5766;32.03;13675;4.7
+733;2023-10-31;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;25631;51.26;48818;4.3
+365;2023-10-31;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6811;45.41;11111;4.7
+753;2023-10-31;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7081;39.34;17491;4.7
+980;2023-10-31;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;50000;38066;76.13;77811;3.9
+299;2023-11-02;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;50000;29241;58.48;53739;4.4
+966;2023-11-02;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10322;51.61;14304;4.2
+925;2023-11-03;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6573;43.82;15615;4.6
+386;2023-11-03;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6249;52.08;11220;5.0
+69;2023-11-03;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7936;52.91;16110;4.3
+903;2023-11-05;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6967;46.45;11583;4.2
+107;2023-11-09;Bonito;MS;Centro-Oeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;8000;5665;70.81;7012;4.3
+841;2023-11-09;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6056;50.47;12244;4.2
+496;2023-11-10;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6879;45.86;11584;3.9
+798;2023-11-10;Campos do Jordão;SP;Sudeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;12000;6716;55.97;16050;4.5
+679;2023-11-10;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4767;39.73;10168;5.0
+186;2023-11-11;Bonito;MS;Centro-Oeste;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;8000;6804;85.05;12127;3.0
+985;2023-11-11;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3046;38.07;6826;4.8
+417;2023-11-11;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2887;36.09;4827;4.3
+778;2023-11-12;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;25919;51.84;62257;5.0
+326;2023-11-13;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7796;51.97;12067;4.7
+232;2023-11-13;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;21122;42.24;50138;4.7
+96;2023-11-14;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;4762;31.75;10727;4.6
+672;2023-11-14;Campos do Jordão;SP;Sudeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;12000;8644;72.03;20488;4.6
+549;2023-11-15;Gramado;RS;Sul;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;15000;14212;94.75;28069;3.9
+992;2023-11-16;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8831;58.87;16494;4.8
+511;2023-11-17;Bonito;MS;Centro-Oeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;8000;6023;75.29;9855;4.1
+208;2023-11-20;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7312;40.62;16130;4.5
+101;2023-11-21;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;18175;36.35;37709;3.9
+434;2023-11-21;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5305;35.37;9826;4.5
+135;2023-11-21;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6375;53.12;12662;4.8
+897;2023-11-22;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;18146;36.29;29254;4.2
+877;2023-11-23;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;26423;52.85;32251;4.4
+932;2023-11-24;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3877;48.46;5722;4.1
+450;2023-11-25;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;4565;30.43;10327;4.7
+881;2023-11-27;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3891;48.64;5419;4.2
+278;2023-11-28;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;22316;44.63;47642;4.7
+224;2023-11-28;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2488;31.1;4113;4.9
+215;2023-11-28;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4024;50.3;7405;4.7
+239;2023-11-29;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6997;58.31;9166;4.4
+722;2023-11-30;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8721;48.45;11243;4.5
+680;2023-11-30;Foz do Iguaçu;PR;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;18000;14081;78.23;17943;4.4
+755;2023-11-30;Gramado;RS;Sul;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;15000;11429;76.19;15530;4.3
+30;2023-12-03;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;11363;75.75;25939;4.9
+611;2023-12-03;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;14667;73.33;20305;3.8
+669;2023-12-04;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;8608;71.73;16995;5.0
+81;2023-12-04;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;11040;73.6;26660;4.5
+280;2023-12-06;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;16730;83.65;30012;3.6
+721;2023-12-08;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;14796;73.98;18930;4.0
+426;2023-12-09;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;12777;85.18;21130;3.9
+895;2023-12-12;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;13971;93.14;27834;3.5
+912;2023-12-12;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;13699;91.33;27571;3.8
+528;2023-12-13;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6133;76.66;9151;5.0
+574;2023-12-13;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;7772;97.15;13419;3.4
+661;2023-12-14;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;10832;90.27;22265;3.6
+301;2023-12-14;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;7316;91.45;9879;3.4
+100;2023-12-15;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6407;80.09;13829;4.5
+229;2023-12-15;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;14695;81.64;30823;3.0
+183;2023-12-15;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;36520;73.04;77981;4.0
+575;2023-12-16;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;13646;90.97;19323;3.7
+160;2023-12-16;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;9349;77.91;22509;4.0
+303;2023-12-17;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;7534;94.17;13597;3.3
+248;2023-12-18;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;8409;70.08;11508;4.3
+880;2023-12-19;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;38721;77.44;62511;4.9
+731;2023-12-20;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;43918;87.84;72436;4.0
+172;2023-12-22;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;41469;82.94;53296;3.4
+128;2023-12-22;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;12799;71.11;27685;4.8
+962;2023-12-23;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;14896;74.48;28274;3.9
+238;2023-12-23;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;15702;87.23;29305;4.4
+140;2023-12-23;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;17079;85.39;41348;3.3
+972;2023-12-23;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;12917;86.11;24433;4.2
+443;2023-12-25;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;14993;74.97;18719;3.9
+182;2023-12-26;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;5746;71.83;11420;3.8
+957;2023-12-27;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;7610;95.12;11402;3.9
+216;2023-12-28;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;9133;76.11;16357;4.2
+359;2023-12-28;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;12530;83.53;21034;3.8
+270;2023-12-29;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;44996;89.99;58635;4.5
+616;2023-12-31;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;12071;80.47;15973;3.2
+996;2023-12-31;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;19398;96.99;26025;3.9
+868;2024-01-01;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;9239;76.99;19059;4.8
+279;2024-01-01;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;10283;85.69;15573;4.4
+766;2024-01-02;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;40998;82.0;76711;3.6
+42;2024-01-03;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;14494;80.52;29817;4.3
+74;2024-01-03;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6044;75.55;14908;3.8
+811;2024-01-04;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;16301;81.51;32339;3.6
+175;2024-01-04;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;37369;74.74;48351;4.1
+252;2024-01-05;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;14433;80.18;24720;4.2
+361;2024-01-05;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;10480;87.33;22115;3.5
+768;2024-01-06;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;11263;93.86;16163;3.4
+33;2024-01-07;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;16084;80.42;25055;3.7
+5;2024-01-10;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;16611;83.06;20714;4.2
+130;2024-01-10;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;16069;80.34;25236;3.5
+249;2024-01-11;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;15655;86.97;32025;3.1
+369;2024-01-11;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;14837;82.43;19953;3.8
+133;2024-01-12;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;7585;94.81;11800;4.4
+562;2024-01-13;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;16916;84.58;35685;3.1
+943;2024-01-14;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;11174;93.12;26852;3.6
+483;2024-01-14;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6857;85.71;11231;4.1
+619;2024-01-15;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;18745;93.73;28318;3.5
+117;2024-01-15;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;42506;85.01;98716;3.4
+425;2024-01-17;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;19113;95.56;40671;3.5
+236;2024-01-19;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6095;76.19;11912;4.2
+760;2024-01-19;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;7432;92.9;12803;3.1
+330;2024-01-20;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6374;79.67;9331;4.9
+825;2024-01-21;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;14876;82.64;34343;3.5
+12;2024-01-21;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;8718;72.65;20153;4.8
+742;2024-01-22;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;44477;88.95;61682;3.4
+921;2024-01-22;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;11540;96.17;18188;4.3
+488;2024-01-23;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;12243;81.62;28465;4.4
+173;2024-01-23;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;42762;85.52;52414;4.0
+325;2024-01-24;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6884;86.05;13211;3.1
+899;2024-01-24;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;48388;96.78;59651;3.7
+297;2024-01-26;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;40550;81.1;80816;3.5
+745;2024-01-26;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;14741;81.89;20591;3.0
+375;2024-01-26;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;14716;73.58;28612;4.7
+484;2024-01-27;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;16244;90.24;25592;4.3
+463;2024-01-28;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;13588;75.49;17076;4.3
+542;2024-01-28;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;19030;95.15;31815;4.2
+857;2024-01-28;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;14810;74.05;32352;4.9
+362;2024-01-30;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;14783;82.13;30660;3.6
+823;2024-01-30;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;11092;92.43;16243;3.2
+89;2024-01-30;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6942;86.78;13363;3.3
+591;2024-01-31;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;5690;71.12;7902;3.9
+576;2024-01-31;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;46969;93.94;100358;3.8
+604;2024-01-31;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;7437;92.96;14619;4.4
+157;2024-01-31;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;18126;90.63;23005;3.6
+878;2024-02-01;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;17259;86.3;23047;3.8
+259;2024-02-01;Gramado;RS;Sul;Carnaval;Carnaval;Festa Popular;15000;14408;96.05;35975;4.3
+935;2024-02-01;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;42766;85.53;60292;4.3
+717;2024-02-01;Gramado;RS;Sul;Carnaval;Carnaval;Festa Popular;15000;14978;99.85;26635;4.4
+977;2024-02-01;Bonito;MS;Centro-Oeste;Carnaval;Carnaval;Festa Popular;8000;6917;86.46;11736;3.8
+196;2024-02-03;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;49229;98.46;88693;4.1
+883;2024-02-04;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;45723;91.45;68721;3.2
+306;2024-02-04;Bonito;MS;Centro-Oeste;Carnaval;Carnaval;Festa Popular;8000;7006;87.58;11680;3.6
+397;2024-02-04;Foz do Iguaçu;PR;Sul;Carnaval;Carnaval;Festa Popular;18000;17569;97.61;31979;4.3
+515;2024-02-05;Gramado;RS;Sul;Carnaval;Carnaval;Festa Popular;15000;14861;99.07;33980;4.5
+640;2024-02-05;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;44725;89.45;69534;3.3
+286;2024-02-05;Foz do Iguaçu;PR;Sul;Carnaval;Carnaval;Festa Popular;18000;17102;95.01;37139;3.1
+732;2024-02-05;Bonito;MS;Centro-Oeste;Carnaval;Carnaval;Festa Popular;8000;7376;92.2;13155;4.1
+82;2024-02-06;Foz do Iguaçu;PR;Sul;Carnaval;Carnaval;Festa Popular;18000;16808;93.38;28216;3.5
+370;2024-02-06;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;18636;93.18;35067;4.4
+904;2024-02-06;Gramado;RS;Sul;Carnaval;Carnaval;Festa Popular;15000;12977;86.51;16053;4.4
+473;2024-02-07;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;43063;86.13;57961;4.0
+312;2024-02-07;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;18253;91.27;33274;3.1
+674;2024-02-07;Gramado;RS;Sul;Carnaval;Carnaval;Festa Popular;15000;14637;97.58;32848;4.1
+389;2024-02-08;Campos do Jordão;SP;Sudeste;Carnaval;Carnaval;Festa Popular;12000;10695;89.12;25462;4.0
+835;2024-02-09;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;44830;89.66;93601;3.8
+442;2024-02-09;Gramado;RS;Sul;Carnaval;Carnaval;Festa Popular;15000;13646;90.97;31039;4.5
+383;2024-02-10;Bonito;MS;Centro-Oeste;Carnaval;Carnaval;Festa Popular;8000;7921;99.01;13181;4.5
+445;2024-02-12;Campos do Jordão;SP;Sudeste;Carnaval;Carnaval;Festa Popular;12000;11883;99.02;28764;3.5
+64;2024-02-12;Foz do Iguaçu;PR;Sul;Carnaval;Carnaval;Festa Popular;18000;16233;90.18;25603;3.4
+535;2024-02-13;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;18175;90.88;43377;3.5
+845;2024-02-14;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;44646;89.29;87574;4.1
+339;2024-02-14;Bonito;MS;Centro-Oeste;Carnaval;Carnaval;Festa Popular;8000;7425;92.81;18122;3.4
+424;2024-02-15;Campos do Jordão;SP;Sudeste;Carnaval;Carnaval;Festa Popular;12000;11050;92.08;20198;4.1
+654;2024-02-17;Gramado;RS;Sul;Carnaval;Carnaval;Festa Popular;15000;14701;98.01;31386;4.1
+970;2024-02-19;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;43365;86.73;101637;4.2
+608;2024-02-19;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;17696;88.48;33121;4.1
+363;2024-02-19;Campos do Jordão;SP;Sudeste;Carnaval;Carnaval;Festa Popular;12000;11045;92.04;16148;4.4
+634;2024-02-21;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;17772;88.86;43646;4.3
+347;2024-02-22;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;17190;85.95;26403;4.4
+886;2024-02-23;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;18523;92.62;30105;3.9
+432;2024-02-23;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;48287;96.57;107859;3.8
+154;2024-02-23;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;46457;92.91;102019;4.2
+352;2024-02-24;Foz do Iguaçu;PR;Sul;Carnaval;Carnaval;Festa Popular;18000;17319;96.22;36221;3.4
+25;2024-02-25;Campos do Jordão;SP;Sudeste;Carnaval;Carnaval;Festa Popular;12000;10425;86.88;21969;3.2
+944;2024-02-25;Porto Seguro;BA;Nordeste;Carnaval;Carnaval;Festa Popular;20000;19281;96.41;41746;3.2
+923;2024-02-25;Campos do Jordão;SP;Sudeste;Carnaval;Carnaval;Festa Popular;12000;11628;96.9;16668;3.5
+658;2024-02-26;Bonito;MS;Centro-Oeste;Carnaval;Carnaval;Festa Popular;8000;6996;87.45;8420;3.5
+598;2024-02-28;Bonito;MS;Centro-Oeste;Carnaval;Carnaval;Festa Popular;8000;7968;99.6;9729;3.2
+993;2024-02-28;Campos do Jordão;SP;Sudeste;Carnaval;Carnaval;Festa Popular;12000;11090;92.42;17905;3.3
+188;2024-02-28;Rio de Janeiro;RJ;Sudeste;Carnaval;Carnaval;Festa Popular;50000;46577;93.15;73265;3.4
+851;2024-03-01;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;4621;30.81;11109;4.4
+317;2024-03-01;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3577;44.71;5950;4.3
+338;2024-03-02;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;7207;36.04;13915;4.3
+44;2024-03-02;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;29281;58.56;49142;3.8
+90;2024-03-02;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;7035;58.63;16496;3.9
+955;2024-03-03;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3056;38.2;3734;4.7
+222;2024-03-04;Gramado;RS;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;15000;10120;67.47;13014;4.0
+210;2024-03-04;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9881;54.89;12600;4.7
+593;2024-03-05;Porto Seguro;BA;Nordeste;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;20000;17853;89.27;30017;4.3
+45;2024-03-05;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3611;30.09;6158;4.1
+52;2024-03-05;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6162;30.81;10449;4.3
+197;2024-03-05;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4600;57.5;7674;4.3
+660;2024-03-05;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5093;42.44;7575;4.4
+995;2024-03-06;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8294;55.29;17401;5.0
+72;2024-03-07;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;22948;45.9;41102;4.5
+67;2024-03-07;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;7453;37.27;9180;4.2
+387;2024-03-09;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;10024;55.69;22065;5.0
+513;2024-03-10;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4076;50.95;4933;4.6
+43;2024-03-11;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4106;34.22;5271;4.4
+636;2024-03-12;Porto Seguro;BA;Nordeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;20000;15166;75.83;35411;4.1
+223;2024-03-15;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4451;55.64;7205;4.7
+487;2024-03-17;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;22005;44.01;50697;4.5
+309;2024-03-20;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;9314;46.57;16014;4.5
+285;2024-03-21;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6573;54.77;8202;3.8
+991;2024-03-21;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4241;35.34;8024;4.4
+226;2024-03-21;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4411;55.14;9280;5.0
+609;2024-03-24;Campos do Jordão;SP;Sudeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;12000;7335;61.12;10221;4.4
+414;2024-03-24;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2452;30.65;6047;4.4
+563;2024-03-26;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4275;35.62;5140;3.9
+816;2024-03-26;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;21753;43.51;33250;5.0
+929;2024-03-27;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5186;43.22;10777;4.4
+494;2024-03-28;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5464;36.43;7527;4.0
+318;2024-03-29;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4109;51.36;6018;4.8
+193;2024-03-31;Porto Seguro;BA;Nordeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;20000;18756;93.78;39525;3.7
+967;2024-04-01;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8898;59.32;15658;4.5
+936;2024-04-02;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6110;50.92;13856;5.0
+757;2024-04-02;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4457;55.71;7890;3.9
+435;2024-04-02;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4568;57.1;8723;4.9
+971;2024-04-05;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5631;37.54;11985;4.6
+156;2024-04-05;Foz do Iguaçu;PR;Sul;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;18000;11774;65.41;27535;4.6
+62;2024-04-06;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5171;34.47;8923;5.0
+540;2024-04-06;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3725;46.56;6872;4.9
+398;2024-04-07;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7387;49.25;18104;4.3
+423;2024-04-07;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;24194;48.39;49008;4.6
+120;2024-04-07;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4942;41.18;11882;4.4
+60;2024-04-07;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;22653;45.31;40522;4.6
+533;2024-04-08;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;27041;54.08;54217;4.3
+947;2024-04-09;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5752;38.35;8173;4.4
+233;2024-04-09;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3530;44.12;8076;4.5
+418;2024-04-09;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3141;39.26;6359;4.0
+933;2024-04-10;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7120;47.47;17652;4.2
+73;2024-04-10;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4375;36.46;8450;4.3
+737;2024-04-10;Gramado;RS;Sul;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;15000;9202;61.35;16605;4.9
+213;2024-04-12;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3914;32.62;7466;4.7
+893;2024-04-12;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7872;43.73;15429;4.1
+735;2024-04-12;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;16228;32.46;21074;4.4
+70;2024-04-12;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4455;55.69;5873;4.6
+174;2024-04-13;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;11819;59.09;27081;4.0
+684;2024-04-13;Bonito;MS;Centro-Oeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;8000;4705;58.81;9143;4.4
+78;2024-04-16;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;29251;58.5;38370;4.5
+939;2024-04-17;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;11645;58.23;23666;4.7
+824;2024-04-17;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6614;33.07;12251;4.3
+150;2024-04-17;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;10351;57.51;17502;4.5
+115;2024-04-18;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7040;46.93;17217;4.5
+218;2024-04-19;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6893;45.95;15230;4.8
+471;2024-04-20;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3778;47.23;8464;4.6
+227;2024-04-22;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8203;45.57;17684;4.3
+214;2024-04-23;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10587;52.94;18109;4.9
+981;2024-04-25;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10624;53.12;15926;4.6
+84;2024-04-26;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9627;53.48;12504;3.8
+675;2024-04-26;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8482;56.55;17933;4.8
+561;2024-04-29;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;10561;58.67;26234;4.4
+429;2024-04-30;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5985;39.9;9483;3.8
+95;2024-05-02;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;19149;38.3;46853;4.0
+94;2024-05-04;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;4600;30.67;7473;4.6
+810;2024-05-06;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6080;50.67;10645;4.8
+499;2024-05-07;Gramado;RS;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;15000;10985;73.23;20133;4.0
+773;2024-05-08;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4720;59.0;6745;3.8
+18;2024-05-08;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7767;51.78;11897;4.7
+797;2024-05-09;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6828;34.14;10080;4.1
+815;2024-05-10;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10827;54.13;17405;4.1
+793;2024-05-12;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6446;53.72;13857;4.5
+990;2024-05-13;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;11429;57.15;23336;4.5
+914;2024-05-14;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;6664;37.02;12814;4.5
+404;2024-05-14;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;8667;43.34;15117;4.7
+527;2024-05-14;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;27022;54.04;46801;5.0
+930;2024-05-15;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3512;43.9;4525;5.0
+456;2024-05-16;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3723;31.03;7650;4.2
+876;2024-05-16;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3885;48.56;5865;4.0
+321;2024-05-19;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3984;49.8;8200;4.7
+710;2024-05-21;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;18648;37.3;28536;4.2
+498;2024-05-21;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;50000;30431;60.86;67974;4.9
+569;2024-05-22;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7667;51.11;9843;4.6
+867;2024-05-23;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7667;51.11;13145;4.9
+178;2024-05-23;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6970;34.85;14638;4.5
+892;2024-05-23;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;25606;51.21;58145;4.6
+46;2024-05-26;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5352;44.6;6431;4.6
+451;2024-05-27;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;9226;46.13;15172;4.5
+631;2024-05-29;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6927;34.63;17297;4.6
+455;2024-05-30;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4554;56.93;7501;4.6
+862;2024-05-30;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4829;40.24;11425;4.3
+968;2024-05-30;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2942;36.78;5994;3.9
+125;2024-06-01;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3921;49.01;6500;3.9
+916;2024-06-02;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6085;50.71;12670;3.9
+122;2024-06-02;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8844;49.13;11565;4.4
+822;2024-06-02;Gramado;RS;Sul;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;15000;12163;81.09;20297;3.0
+88;2024-06-03;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6111;50.92;10426;4.2
+372;2024-06-03;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6895;57.46;15436;4.9
+949;2024-06-04;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2822;35.27;3935;4.7
+830;2024-06-04;Bonito;MS;Centro-Oeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;8000;4296;53.7;7927;4.9
+896;2024-06-04;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2965;37.06;4012;4.5
+283;2024-06-04;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4009;50.11;7982;4.3
+343;2024-06-05;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8540;56.93;14589;5.0
+626;2024-06-05;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3938;32.82;6234;4.3
+983;2024-06-05;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;5853;32.52;7580;4.5
+911;2024-06-06;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;25909;51.82;37833;4.5
+805;2024-06-07;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8481;56.54;17060;4.9
+246;2024-06-08;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8448;56.32;19410;3.8
+71;2024-06-10;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;11303;56.52;28133;4.0
+146;2024-06-15;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8914;49.52;11497;3.9
+50;2024-06-15;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;11030;55.15;25731;4.0
+838;2024-06-16;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7866;52.44;13546;4.1
+152;2024-06-17;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;50000;43145;86.29;51781;4.3
+155;2024-06-18;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6711;44.74;9626;4.5
+105;2024-06-19;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6902;34.51;12840;4.3
+941;2024-06-20;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;7461;37.3;17213;4.6
+691;2024-06-21;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;7722;38.61;10985;4.0
+690;2024-06-21;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6022;50.18;13536;4.6
+433;2024-06-22;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;6745;37.47;15853;4.6
+976;2024-06-23;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7980;44.33;12747;4.6
+898;2024-06-24;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;4832;32.21;10089;4.8
+93;2024-06-24;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9298;51.66;20820;4.9
+645;2024-06-24;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;10372;57.62;12862;4.4
+503;2024-06-26;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9657;53.65;15976;4.1
+580;2024-06-26;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6119;30.59;12357;4.2
+19;2024-06-28;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;16303;32.61;20339;4.7
+14;2024-06-28;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6849;57.07;11033;4.1
+667;2024-06-28;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3872;48.4;6048;4.3
+724;2024-06-28;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4719;39.32;10123;4.6
+622;2024-06-29;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;20278;40.56;28905;4.8
+162;2024-06-29;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7516;50.11;11199;4.2
+269;2024-06-29;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;9990;49.95;13669;4.9
+786;2024-06-30;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8354;55.69;18053;4.6
+708;2024-06-30;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3663;45.79;7208;4.7
+590;2024-06-30;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;11829;59.15;16851;3.9
+322;2024-07-01;Foz do Iguaçu;PR;Sul;Férias de Julho;Sem Evento;N/A;18000;12941;71.89;22639;4.9
+839;2024-07-02;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;10528;87.73;12942;3.4
+234;2024-07-02;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;5756;71.95;12945;4.3
+103;2024-07-02;Porto Seguro;BA;Nordeste;Férias de Julho;Evento Esportivo;Corporativo/Lazer;20000;19709;98.55;47768;3.2
+430;2024-07-03;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;13829;69.14;27649;4.9
+374;2024-07-04;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;33222;66.44;78658;4.7
+583;2024-07-04;Foz do Iguaçu;PR;Sul;Férias de Julho;Sem Evento;N/A;18000;13691;76.06;32870;4.2
+13;2024-07-04;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;38975;77.95;81385;4.3
+170;2024-07-04;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;10272;85.6;19949;3.8
+114;2024-07-06;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;6416;80.2;12944;4.4
+489;2024-07-07;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;11292;94.1;15575;4.3
+610;2024-07-07;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;10949;91.24;26665;4.3
+874;2024-07-08;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;10522;87.68;25471;4.3
+79;2024-07-08;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;5977;74.71;10101;4.0
+315;2024-07-08;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;41323;82.65;49772;3.4
+497;2024-07-09;Foz do Iguaçu;PR;Sul;Férias de Julho;Sem Evento;N/A;18000;13548;75.27;18797;4.3
+54;2024-07-09;Gramado;RS;Sul;Férias de Julho;Festival de Inverno;Cultura;15000;14050;93.67;30806;3.7
+520;2024-07-09;Porto Seguro;BA;Nordeste;Férias de Julho;Evento Esportivo;Corporativo/Lazer;20000;20000;100.0;25385;4.0
+29;2024-07-10;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;13057;65.29;27351;4.0
+185;2024-07-10;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;16233;81.16;21372;3.4
+738;2024-07-10;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;10236;85.3;14558;3.9
+467;2024-07-10;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;42137;84.27;98832;3.5
+470;2024-07-11;Foz do Iguaçu;PR;Sul;Férias de Julho;Sem Evento;N/A;18000;11122;61.79;23665;4.8
+545;2024-07-12;Bonito;MS;Centro-Oeste;Férias de Julho;Festival de Música;Corporativo/Lazer;8000;7139;89.24;15056;4.0
+351;2024-07-13;Gramado;RS;Sul;Férias de Julho;Festival de Inverno;Cultura;15000;13378;89.19;32465;3.7
+468;2024-07-15;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;14782;73.91;22234;4.9
+956;2024-07-16;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;30537;61.07;54915;4.6
+507;2024-07-17;Gramado;RS;Sul;Férias de Julho;Festival de Inverno;Cultura;15000;14896;99.31;30003;3.6
+141;2024-07-18;Foz do Iguaçu;PR;Sul;Férias de Julho;Festival de Música;Corporativo/Lazer;18000;15791;87.73;39211;3.4
+184;2024-07-18;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;13519;67.59;23066;4.1
+613;2024-07-18;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;6492;81.15;13916;4.5
+821;2024-07-19;Campos do Jordão;SP;Sudeste;Férias de Julho;Festival de Inverno;Cultura;12000;10923;91.03;18173;4.1
+480;2024-07-19;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;6680;83.5;8286;3.5
+693;2024-07-19;Gramado;RS;Sul;Férias de Julho;Festival de Inverno;Cultura;15000;14550;97.0;29420;3.2
+573;2024-07-20;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;4921;61.51;10519;4.4
+752;2024-07-20;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;37536;75.07;59159;4.6
+707;2024-07-21;Foz do Iguaçu;PR;Sul;Férias de Julho;Sem Evento;N/A;18000;10943;60.79;16187;4.5
+828;2024-07-21;Foz do Iguaçu;PR;Sul;Férias de Julho;Sem Evento;N/A;18000;11436;63.53;24082;4.1
+111;2024-07-22;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Festival de Música;Corporativo/Lazer;50000;44323;88.65;88498;3.4
+601;2024-07-22;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;37403;74.81;80332;4.1
+907;2024-07-24;Gramado;RS;Sul;Férias de Julho;Festival de Inverno;Cultura;15000;14073;93.82;30434;4.1
+421;2024-07-25;Bonito;MS;Centro-Oeste;Férias de Julho;Congresso Nacional;Corporativo/Lazer;8000;8000;100.0;13669;3.7
+605;2024-07-28;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;14722;73.61;25870;4.2
+712;2024-07-28;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;15769;78.84;32007;4.4
+630;2024-07-28;Rio de Janeiro;RJ;Sudeste;Férias de Julho;Sem Evento;N/A;50000;30505;61.01;49083;4.8
+187;2024-07-31;Bonito;MS;Centro-Oeste;Férias de Julho;Sem Evento;N/A;8000;4931;61.64;6870;4.8
+820;2024-07-31;Porto Seguro;BA;Nordeste;Férias de Julho;Sem Evento;N/A;20000;16066;80.33;21414;3.3
+469;2024-08-01;Gramado;RS;Sul;Baixa Temporada;Festival de Música;Corporativo/Lazer;15000;11875;79.17;23647;4.9
+743;2024-08-02;Campos do Jordão;SP;Sudeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;12000;8911;74.26;13511;4.4
+882;2024-08-02;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5719;47.66;12515;4.5
+168;2024-08-03;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6461;43.07;15686;3.8
+444;2024-08-06;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8950;59.67;13783;4.9
+754;2024-08-06;Gramado;RS;Sul;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;15000;13096;87.31;20011;3.4
+796;2024-08-07;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7360;49.07;15828;4.9
+676;2024-08-09;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8752;58.35;11404;4.7
+138;2024-08-09;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5475;45.62;11591;4.1
+765;2024-08-09;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;26417;52.83;59837;4.0
+650;2024-08-10;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;5447;30.26;12104;3.9
+770;2024-08-11;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7165;39.81;17809;4.4
+926;2024-08-11;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;28705;57.41;62827;4.7
+240;2024-08-12;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9357;51.98;18457;4.3
+963;2024-08-12;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3852;48.15;6174;4.7
+97;2024-08-13;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4402;55.02;9883;4.9
+783;2024-08-13;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4313;35.94;8331;5.0
+399;2024-08-13;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;6534;36.3;13533;4.7
+459;2024-08-14;Gramado;RS;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;15000;9863;65.75;12660;4.4
+984;2024-08-14;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6560;54.67;9503;4.1
+927;2024-08-15;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5179;34.53;8322;4.1
+395;2024-08-16;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5113;42.61;7102;3.8
+695;2024-08-16;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;28204;56.41;43691;4.1
+410;2024-08-17;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6262;52.18;12434;4.1
+978;2024-08-17;Gramado;RS;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;15000;12439;82.93;18865;4.4
+336;2024-08-17;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5606;37.37;6807;4.6
+559;2024-08-17;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9133;50.74;11362;4.5
+415;2024-08-18;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;28700;57.4;41736;4.4
+945;2024-08-20;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9764;54.24;17232;4.9
+171;2024-08-21;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;4700;31.33;6248;4.6
+454;2024-08-21;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4260;35.5;6274;4.8
+431;2024-08-24;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4600;38.33;11346;4.7
+8;2024-08-24;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4203;35.02;5167;4.6
+304;2024-08-25;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;23341;46.68;51845;4.0
+256;2024-08-26;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3304;41.3;4319;3.9
+843;2024-08-27;Porto Seguro;BA;Nordeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;20000;16007;80.03;24011;3.1
+392;2024-08-27;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8608;57.39;11402;3.9
+422;2024-08-28;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;4645;30.97;6136;4.9
+900;2024-08-29;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8248;54.99;11401;4.6
+1000;2024-08-29;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5254;35.03;7021;4.9
+212;2024-08-30;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;19660;39.32;37566;3.9
+659;2024-08-30;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7365;49.1;17164;3.9
+539;2024-08-30;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;7598;37.99;12745;3.9
+302;2024-08-31;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;6262;34.79;8488;3.9
+924;2024-08-31;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6526;32.63;13107;5.0
+599;2024-08-31;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;9015;45.07;13515;3.8
+602;2024-08-31;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6760;33.8;15494;4.4
+537;2024-08-31;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5110;34.07;7738;4.7
+864;2024-09-01;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7074;39.3;10066;4.8
+328;2024-09-01;Porto Seguro;BA;Nordeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;20000;12166;60.83;26872;4.6
+969;2024-09-03;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3979;33.16;7191;4.2
+523;2024-09-04;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5519;45.99;8849;4.6
+300;2024-09-05;Gramado;RS;Sul;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;15000;13278;88.52;23315;3.4
+901;2024-09-06;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6808;34.04;14798;4.9
+242;2024-09-06;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5920;49.33;10616;4.0
+600;2024-09-06;Bonito;MS;Centro-Oeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;8000;6110;76.38;10101;4.2
+565;2024-09-07;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3697;30.81;9017;4.1
+552;2024-09-07;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;22127;44.25;40782;4.9
+106;2024-09-08;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8821;49.01;15291;4.2
+273;2024-09-09;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;26124;52.25;62344;4.6
+405;2024-09-09;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;3958;32.98;5152;4.5
+668;2024-09-10;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7644;50.96;18345;4.5
+894;2024-09-10;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3449;43.11;7833;4.7
+627;2024-09-11;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6597;54.97;10673;4.2
+776;2024-09-13;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4405;36.71;8697;3.9
+34;2024-09-15;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5694;37.96;9763;4.3
+701;2024-09-16;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4606;57.57;5976;4.0
+327;2024-09-16;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6874;45.83;16334;5.0
+354;2024-09-17;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6505;54.21;10294;3.9
+746;2024-09-17;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5087;33.91;9768;4.1
+287;2024-09-18;Porto Seguro;BA;Nordeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;20000;16394;81.97;22702;3.8
+595;2024-09-19;Bonito;MS;Centro-Oeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;8000;5316;66.45;8141;4.8
+308;2024-09-19;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;23369;46.74;29347;4.9
+548;2024-09-20;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;29164;58.33;41439;3.9
+526;2024-09-21;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;7281;36.41;15773;4.8
+982;2024-09-21;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7742;43.01;18893;4.1
+358;2024-09-22;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2641;33.01;3462;4.8
+536;2024-09-22;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3369;42.11;8037;4.7
+485;2024-09-22;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10413;52.06;14783;4.7
+974;2024-09-22;Campos do Jordão;SP;Sudeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;12000;7840;65.33;10750;4.6
+457;2024-09-22;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9833;54.63;17712;4.7
+809;2024-09-23;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4436;36.97;6031;4.2
+355;2024-09-24;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;23192;46.38;40616;4.6
+98;2024-09-24;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;19209;38.42;28410;4.4
+181;2024-09-25;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6373;53.11;15445;4.2
+199;2024-09-25;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;26143;52.29;53409;4.3
+428;2024-09-26;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4036;33.63;7562;4.7
+865;2024-09-26;Foz do Iguaçu;PR;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;18000;14966;83.14;31810;3.3
+257;2024-09-28;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10406;52.03;18049;4.8
+261;2024-09-28;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7554;41.97;12070;4.5
+371;2024-09-30;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3347;41.84;5230;5.0
+648;2024-10-01;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;19411;38.82;28757;4.9
+551;2024-10-01;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;6197;41.31;14536;3.8
+402;2024-10-02;Foz do Iguaçu;PR;Sul;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;18000;13256;73.64;17003;3.8
+795;2024-10-02;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7761;51.74;9590;4.5
+846;2024-10-02;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;24497;48.99;46619;4.8
+817;2024-10-02;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6505;32.52;14585;4.0
+176;2024-10-02;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10011;50.06;19850;4.8
+118;2024-10-03;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2508;31.35;3874;4.3
+177;2024-10-03;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;6717;37.32;16664;3.8
+11;2024-10-03;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;26087;52.17;61039;4.2
+253;2024-10-05;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;9218;46.09;21208;5.0
+586;2024-10-05;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8357;55.71;14416;5.0
+449;2024-10-05;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9414;52.3;11558;4.5
+461;2024-10-06;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;22559;45.12;37791;4.3
+629;2024-10-06;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;9736;54.09;23785;4.3
+159;2024-10-06;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4067;33.89;8631;4.1
+794;2024-10-06;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3249;40.61;3958;4.4
+368;2024-10-07;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;11556;57.78;27508;4.5
+780;2024-10-07;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4058;50.72;6500;4.5
+144;2024-10-08;Campos do Jordão;SP;Sudeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;12000;7566;63.05;18002;4.0
+891;2024-10-08;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;16712;33.42;22508;4.4
+479;2024-10-09;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4315;53.94;7214;4.8
+525;2024-10-10;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7285;40.47;14036;4.6
+844;2024-10-11;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5396;35.97;8746;4.1
+653;2024-10-12;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8275;55.17;13308;4.6
+75;2024-10-13;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;7746;38.73;15337;4.7
+491;2024-10-13;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;17865;35.73;34355;4.3
+510;2024-10-13;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2595;32.44;5051;4.8
+885;2024-10-15;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3590;44.88;8261;4.4
+940;2024-10-16;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5438;36.25;12055;4.0
+534;2024-10-18;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8458;46.99;12342;4.6
+953;2024-10-18;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;10533;52.66;15634;4.7
+873;2024-10-19;Bonito;MS;Centro-Oeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;8000;5025;62.81;6929;4.1
+419;2024-10-22;Campos do Jordão;SP;Sudeste;Baixa Temporada;Evento Esportivo;Corporativo/Lazer;12000;8379;69.83;14207;4.1
+275;2024-10-23;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;25277;50.55;55647;4.2
+761;2024-10-24;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;15506;31.01;30098;4.7
+474;2024-10-25;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;6475;35.97;10844;4.5
+55;2024-10-26;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4733;39.44;9470;4.0
+221;2024-10-26;Porto Seguro;BA;Nordeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;20000;15031;75.16;29115;4.3
+529;2024-10-26;Campos do Jordão;SP;Sudeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;12000;9439;78.66;21682;4.9
+699;2024-10-26;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;21693;43.39;50534;4.3
+727;2024-10-27;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;7599;50.66;16019;4.7
+403;2024-10-27;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7411;41.17;14412;4.9
+532;2024-10-29;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5675;47.29;8874;4.4
+319;2024-10-29;Gramado;RS;Sul;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;15000;12790;85.27;20136;4.1
+812;2024-10-29;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;26564;53.13;61992;4.5
+63;2024-10-29;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;10086;56.03;17878;4.4
+646;2024-10-31;Campos do Jordão;SP;Sudeste;Baixa Temporada;Festival de Música;Corporativo/Lazer;12000;7298;60.82;15847;4.7
+782;2024-11-01;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;10753;59.74;17628;4.8
+584;2024-11-04;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4484;56.05;7571;4.9
+204;2024-11-05;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;8575;47.64;15765;3.9
+292;2024-11-05;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4395;36.62;5780;4.1
+833;2024-11-06;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4710;39.25;11604;4.5
+639;2024-11-10;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;6755;33.77;10138;3.9
+360;2024-11-10;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4539;37.82;9309;4.9
+937;2024-11-11;Foz do Iguaçu;PR;Sul;Baixa Temporada;Sem Evento;N/A;18000;7368;40.93;13986;4.3
+9;2024-11-13;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5485;36.57;10830;4.5
+814;2024-11-13;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4972;41.43;8728;4.4
+538;2024-11-14;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;8659;43.3;21410;4.9
+16;2024-11-14;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;5028;33.52;6512;4.8
+41;2024-11-14;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;5060;42.17;9060;3.9
+571;2024-11-17;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4459;55.74;9726;4.7
+651;2024-11-17;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3989;49.86;5469;4.0
+888;2024-11-19;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;9858;49.29;19779;5.0
+92;2024-11-19;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;6608;55.07;8434;4.9
+928;2024-11-20;Campos do Jordão;SP;Sudeste;Baixa Temporada;Sem Evento;N/A;12000;4459;37.16;7800;4.2
+209;2024-11-20;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;21796;43.59;48337;4.1
+692;2024-11-21;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;18511;37.02;43436;4.1
+4;2024-11-22;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3880;48.5;5221;4.9
+709;2024-11-22;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4708;58.85;9003;4.9
+337;2024-11-23;Gramado;RS;Sul;Baixa Temporada;Sem Evento;N/A;15000;8101;54.01;17540;4.0
+401;2024-11-23;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2907;36.34;5268;3.9
+909;2024-11-23;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;25730;51.46;60728;4.0
+681;2024-11-23;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;3136;39.2;7630;4.6
+284;2024-11-25;Bonito;MS;Centro-Oeste;Baixa Temporada;Feira Gastronômica;Corporativo/Lazer;8000;4553;56.91;6663;4.6
+1;2024-11-25;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;2696;33.7;5507;4.2
+310;2024-11-25;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;18007;36.01;40807;4.9
+151;2024-11-27;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;7036;35.18;11152;4.2
+553;2024-11-27;Porto Seguro;BA;Nordeste;Baixa Temporada;Sem Evento;N/A;20000;7574;37.87;11585;5.0
+380;2024-11-28;Rio de Janeiro;RJ;Sudeste;Baixa Temporada;Sem Evento;N/A;50000;20069;40.14;47547;4.2
+849;2024-11-28;Bonito;MS;Centro-Oeste;Baixa Temporada;Congresso Nacional;Corporativo/Lazer;8000;7737;96.71;13792;3.2
+104;2024-11-29;Bonito;MS;Centro-Oeste;Baixa Temporada;Sem Evento;N/A;8000;4741;59.26;7298;5.0
+566;2024-12-01;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;10699;71.33;20476;4.7
+546;2024-12-01;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;10513;70.09;17097;4.5
+632;2024-12-02;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;14216;94.77;18769;4.2
+305;2024-12-03;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;17299;86.5;36810;4.2
+324;2024-12-03;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;11600;96.67;21195;3.7
+66;2024-12-04;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;13594;90.63;16610;4.4
+136;2024-12-04;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;10748;71.65;25675;4.6
+481;2024-12-05;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;12643;84.29;25587;4.1
+195;2024-12-05;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;14756;73.78;23566;4.4
+169;2024-12-06;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;44258;88.52;96364;3.0
+643;2024-12-06;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6363;79.54;13207;4.9
+890;2024-12-06;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;17100;95.0;39688;3.3
+40;2024-12-06;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;41098;82.2;59114;4.2
+119;2024-12-07;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;14030;93.53;19132;4.4
+832;2024-12-07;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;38729;77.46;84911;3.9
+192;2024-12-09;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;7204;90.05;11957;4.2
+440;2024-12-09;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;48150;96.3;90820;3.7
+666;2024-12-11;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;11066;92.22;19591;4.0
+950;2024-12-11;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;13896;77.2;18725;4.2
+121;2024-12-12;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;9658;80.48;23839;4.1
+61;2024-12-12;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;13774;76.52;26623;4.2
+779;2024-12-12;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;12793;85.29;19517;3.3
+730;2024-12-12;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;13145;87.63;26142;4.2
+908;2024-12-12;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;45718;91.44;85289;3.8
+919;2024-12-12;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;40565;81.13;93766;3.5
+747;2024-12-14;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;7571;94.64;9432;4.3
+696;2024-12-15;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;11606;96.72;20825;3.5
+889;2024-12-17;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;15911;88.39;22699;3.7
+567;2024-12-18;Porto Seguro;BA;Nordeste;Alta Temporada;Festas de Fim de Ano;Comemoração;20000;16381;81.91;39399;3.6
+464;2024-12-19;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;7150;89.38;15386;3.9
+194;2024-12-19;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;43577;87.15;77238;4.0
+734;2024-12-20;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;38352;76.7;95493;3.9
+230;2024-12-20;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;13021;86.81;26823;3.6
+504;2024-12-20;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;10560;88.0;24346;4.4
+413;2024-12-20;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;35241;70.48;47827;4.4
+872;2024-12-21;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;48241;96.48;92489;3.5
+416;2024-12-21;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;47602;95.2;58870;3.2
+875;2024-12-21;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;11931;79.54;20464;3.9
+789;2024-12-22;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;13564;75.36;19010;4.4
+298;2024-12-22;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;14897;82.76;28555;4.4
+635;2024-12-23;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;12727;70.71;16530;4.4
+714;2024-12-24;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;14024;93.49;32489;3.4
+756;2024-12-26;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;8719;72.66;11266;4.0
+808;2024-12-27;Gramado;RS;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;15000;14556;97.04;23646;4.2
+859;2024-12-27;Foz do Iguaçu;PR;Sul;Alta Temporada;Festas de Fim de Ano;Comemoração;18000;13489;74.94;18437;4.8
+258;2024-12-28;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;44764;89.53;82230;3.8
+807;2024-12-29;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6241;78.01;15453;4.5
+388;2024-12-29;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;38476;76.95;74614;4.9
+922;2024-12-31;Bonito;MS;Centro-Oeste;Alta Temporada;Festas de Fim de Ano;Comemoração;8000;6616;82.7;14474;4.1
+254;2024-12-31;Rio de Janeiro;RJ;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;50000;45245;90.49;59987;4.1
+596;2024-12-31;Campos do Jordão;SP;Sudeste;Alta Temporada;Festas de Fim de Ano;Comemoração;12000;9759;81.33;23857;3.5

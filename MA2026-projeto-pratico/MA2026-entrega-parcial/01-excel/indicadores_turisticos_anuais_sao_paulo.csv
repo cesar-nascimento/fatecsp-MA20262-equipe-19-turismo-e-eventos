@@ -1,0 +1,6 @@
+﻿ano,indicador,valor,unidade,observacao,municipio,uf,url_fonte
+2024,turistas_totais,37700000.0,pessoas,Valor aproximado divulgado pela Prefeitura; usar como estimativa arredondada.,São Paulo,SP,https://prefeitura.sp.gov.br/w/cidade-de-s%C3%A3o-paulo-fecha-2025-com-recorde-hist%C3%B3rico-de-47-2-milh%C3%B5es-de-turistas
+2025,turistas_totais,47200000.0,pessoas,Valor aproximado divulgado pela Prefeitura; usar como estimativa arredondada.,São Paulo,SP,https://prefeitura.sp.gov.br/w/cidade-de-s%C3%A3o-paulo-fecha-2025-com-recorde-hist%C3%B3rico-de-47-2-milh%C3%B5es-de-turistas
+2025,turistas_nacionais,44700000.0,pessoas,Valor aproximado divulgado pela Prefeitura.,São Paulo,SP,https://prefeitura.sp.gov.br/w/cidade-de-s%C3%A3o-paulo-fecha-2025-com-recorde-hist%C3%B3rico-de-47-2-milh%C3%B5es-de-turistas
+2025,turistas_internacionais,2500000.0,pessoas,Valor aproximado divulgado pela Prefeitura.,São Paulo,SP,https://prefeitura.sp.gov.br/w/cidade-de-s%C3%A3o-paulo-fecha-2025-com-recorde-hist%C3%B3rico-de-47-2-milh%C3%B5es-de-turistas
+2025,ocupacao_media_hoteleira,62.96,porcentagem,Taxa média anual publicada; não é uma série mensal.,São Paulo,SP,https://prefeitura.sp.gov.br/w/cidade-de-s%C3%A3o-paulo-fecha-2025-com-recorde-hist%C3%B3rico-de-47-2-milh%C3%B5es-de-turistas
