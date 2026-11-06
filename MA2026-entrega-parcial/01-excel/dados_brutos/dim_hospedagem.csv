@@ -1,0 +1,441 @@
+﻿hospedagem_sk;nome_estabelecimento;tipo_acomodacao;capacidade_total_uhs;capacidade_total_leitos
+1;Hotel Horizonte Rio Branco;Hotel;73;68
+2;Central Palace Hotel;Hotel;85;207
+3;Boulevard  Apart-hotel;Apart-hotel;59.0;187
+4;Hotel Orla;Hotel;117;364
+5;Executivo Apart-hotel;Apart-hotel;130;416
+6;Pousada Villa Recanto das Águas;Pousada;38;114
+7;Camping Mata Nativa;Camping ;39;149
+8;Hotel Premier;Hotel;153;366
+9;Imperial Apart-hotel;Apart-hotel;64;185
+10;Camping Lagoa Dourada;Camping;39;155
+11;Pousada Villa Mata Atlântica;Pousada;39;117
+12;Lagoa Azul Palace Hotel;Hotel;140;436
+13;Hotel Aurora Plaza;Hotel;123;246
+14;Grande Hotel Brasil;Hotel;88;237
+15;Palace Apart-hotel;Apart-hotel;164;569
+16;Imperial Apart-hotel Macapá;Apart-hotel;117;361
+17;Flat Executivo;Flat;214;500
+18;Bela Vista Suites;Flat;73;172
+19;Nômade Hostel;Hostel;17;94
+20;Vista Mar Palace Hotel;Hotel;134;423
+21;Hotel Atlântico;Hotel;93;227
+22;Executivo  Executive;Flat;73;212
+23;Pousada Lua Cheia Salvador;Pousada;22;66
+24;Hotel Lagoa Azul Salvador;Hotel;154;390
+25;Pousada Villa Ipê Amarelo;Pousada;31.0;62
+26;Hotel Capital Salvador;hotel;78;172
+27;Camping Cachoeira;Camping;18;63
+28;Park Apart-hotel;Apart-hotel;141;421
+29;Colonial Apart-hotel;Apart-hotel;89;296
+30;Costa Dourada Resort;Resort;561;2231
+31;Vale Encantado Resort;Resort;155;495
+32;Hotel Boulevard;Hotel;93;204
+33;Praia Bonita Fortaleza Resort;Resort;409;1480
+34;Hotel Premium Fortaleza;Hotel;96;241
+35;Hotel Atlântico Fortaleza;Hotel;216 UHs;681
+36;Grande Hotel Panorama;Hotel;215;552
+37;Pousada Caminho do Mar;pousada;24;96
+38;Nômade Hostel Brasília;Hostel;22;152
+39;Grande Hotel Executivo;Hotel;144;343
+40;Grande Hotel Atlântico;Hotel;240;763
+41;Hotel Palace Plaza;Hotel;87;174
+42;Pousada Maré Mansa;Pous.;13;39
+43;Grande Hotel Boulevard;Hotel;79;177
+44;Brasil Residence;Flat;249;619
+45;Pousada Villa Maré Mansa;Pousada;7;21
+46;Pousada Estrela do Mar;Pousada;26;78
+47;Grande Hotel Mirante;Hotel;114;334
+48;Flat Plaza;Flat;133;352
+49;Hotel Lagoa Azul;Hotel;81;193
+50;Hostel Mochileiro Goiânia;Hostel;21;143
+51;Bela Vista Apart-hotel;Apart-hotel;40;133
+52;Roots Hostel;Hostel;10;48
+53;Hotel Brasil Plaza;Hotel;318;882
+54;Hotel Horizonte;hotel;277;730
+55;Pousada Villa Estrela do Mar;Pousada;26;104
+56;Pousada Coqueiral;Pousada;35;70
+57;Park Apart-hotel São Luís;Apart-hotel;100;302
+58;Paraíso Tropical São Luís Resort;Resort;193;633
+59;Hotel Vista Mar;hotel;58.0;147
+60;Serra Azul Apart-hotel;Apart-hotel;141.0;435
+61;Hotel Beira Rio Plaza;Hotel;317;824
+62;Pousada Canto da Serra Cuiabá;Pousada;12;36
+63;Hotel Lagoa Azul Cuiabá;Hotel;39;116
+64;Hotel Premium Plaza;Hotel;173;473
+65;Hotel Executivo Plaza;Hotel;176;513
+66;Flat Serra Azul;Flat;136;273
+67;do Sol Home Service;Flat;93;206
+68;Panorama Apart-hotel;Apart-hotel;113;
+69;Hotel Capital Campo Grande;Hotel;192;391
+70;Hostel Mochileiro Belo Horizonte;Hostel;36;180
+71;Premium Palace Hotel;Hotel;117;286
+72;Hotel Boulevard Plaza;Hotel;159;371
+73;Central Apart-hotel;Apart-hotel;38;98
+74;Pousada Villa Coqueiral;Pousada;20;60
+75;Pousada Villa Villa Verde;Pousada;26;104
+76;Hotel Aurora Plaza Belém;Hotel;195;479
+77;Pousada Arco-Íris;Pousada;37;148
+78;Hotel Beira Rio;Hotel;183;496
+79;Hotel Bela Vista Plaza;Hotel;114;325
+80;Hotel Orla Plaza;Hotel;144;402
+81;Pousada  Ipê Amarelo João Pessoa;Pousada;8.0;32
+82;Pousada Ventos do Sul;Pousada;26;104
+83;Hotel Premium;Hotel;100;268
+84;Hotel Boulevard Curitiba;Hotel;99;224
+85;Ouro Verde Home Service;Flat;141;375
+86;Mirante Home Service;Flat;201;567
+87;Hotel Maré Alta;Hotel;198;418
+88;Hotel Serra Azul Plaza;hotel;135;317
+89;Hotel Panorama Curitiba;Hotel;69;167
+90;Pousada Maré Mansa Recife;Pousada;34;102
+91;Praia  Bonita Resort;Resort;151;N/I
+92;Colonial Apart-hotel Recife;Apart-hotel;88;305
+93;Hostel Roots Recife;Hostel;38;220
+94;Vagabundo Hostel;Hostel;9;52
+95;Bela Vista Palace Hotel;Hotel;319;769
+96;CENTRAL PALACE HOTEL TERESINA;Hotel;107;321
+97;Hotel Mirante;Hotel;232;535
+98;Beira Rio Apart-hotel;Apart-hotel;121;312
+99;Pousada Villa Ipê Amarelo Rio de Janeiro;Pousada;16;64
+100;Caminhante Hostel;Hostel ;23;155
+101;Pousada Villa Lua Cheia;Pousada;6;18
+102;Pousada Villa Refúgio;Pousada;38;114
+103;Vista Mar Palace Hotel Rio de Janeiro;Hotel;199;574
+104;Camping Rio Claro;camping;55;187
+105;Pousada Jardim Secreto Rio de Janeiro;pousada;40;80
+106;Ilha Verde Rio de Janeiro Resort;Resort;176;650
+107;Pousada Cantinho do Céu;Pousada;20;80
+108;Camping Bem-te-vi;Camping;23;84
+109;Camping Cachoeira Rio de Janeiro;Camping;46;167
+110;Pousada Encanto  ;Pous.;20;40
+111;Pousada Sol Nascente Natal;Pousada;12;48
+112;Grande Hotel Aurora;Hotel;113;253
+113;Lagoa Azul Apart-hotel;Apart-hotel;91;302
+114;Pousada Alvorada Porto Alegre;Pousada;28;84
+115;Central Palace Hotel Porto Alegre;Hotel;194;610
+116;Panorama Palace Hotel;Hotel;199;550
+117;Hotel Solar;Hotel;165;379
+118;Hotel Ouro Verde Plaza;Hotel;273;722
+119;Hostel Trilha Porto Velho;Hostel;23;137
+120;Premier Palace Hotel;Hotel;95;254
+121;Flat Mirante;Flat;44;117
+122;Grande Hotel Real;Hotel;56;155
+123;Hotel Executivo Plaza Boa Vista;Hotel;201;442
+124;Real Apart-hotel;Apart Hotel;91;289
+125;Flat Panorama;Flat;192;401
+126;Hotel Brasil Boa Vista;Hotel;53;137
+127;Pousada Canto da Serra Florianópolis;Pousada;18;72
+128;Hotel Lagoa Azul Florianópolis;Hotel;;256
+129;ATLÂNTICO PALACE HOTEL;Hotel;66;175
+130;Pousada Villa Sabiá;Pousada;35;105
+131;Plaza Apart-hotel;Apart-hotel;64;216
+132;Executivo Apart-hotel Florianópolis;Apart-hotel;65;213
+133;Vista Mar Suites;Flat;57;148
+134;Nômade Hostel Florianópolis;Hostel;35;217
+135;Pousada Mata Atlântica Florianópolis;Pousada;35 UHs;105
+136;Palace Palace Hotel;hotel;147;145
+137;Hotel Ouro Verde;Hotel;198;561
+138;Hotel Executivo São Paulo  ;Hotel;55;134
+139;Hotel Colonial São Paulo;Hotel;290;918
+140;Hotel Vista Mar Plaza;Hotel;144;143
+141;Hotel Real São Paulo;Hotel;320;733
+142;Hotel Premium Plaza São Paulo;Hotel;216;535
+143;Pousada Alvorada Aracaju;Pousada;11;33
+144;Imperial Palace Hotel;Hotel;119;255
+145;Hotel Maré Alta Aracaju;Hotel;220;621
+146;Bela Vista Apart-hotel Aracaju;Apart Hotel;200;560
+147;Capital Apart-hotel;apart-hotel;106;268
+148;Hotel Horizonte Plaza;Hotel;106;313
+149;Hostel Casa Viva Palmas;Hostel;32;199
+150;Grande Hotel Executivo Palmas;Hotel;92;274
+151;Hotel Central;Hotel;291;875
+152;Imperial Apart-hotel Foz do Iguaçu;Apart-hotel;31;94
+153;Paraíso Tropical Foz do Iguaçu Resort;Resort;401;1237
+154;Casa Viva Hostel;Hostel;8;47
+155;Boulevard Apart-hotel Paraty;Apart Hotel;157;475
+156;Caminhante Hostel Paraty;Hostel;26;162
+157;Premium Apart-hotel;Apart Hotel;165;500
+158;Backpackers  Hostel;Hostel ;14;13
+159;Brasil Apart-hotel;Apart-hotel;40;107
+160;Mirante Studios;Flat;249;N/I
+161;Hotel  Panorama Plaza;Hotel;195;610
+162;Hotel Panorama Plaza Angra dos Reis;Hotel;153;391
+163;Pousada Canto da Serra Petrópolis;Pousada;22;44
+164;Hotel Horizonte Petrópolis;Hotel;136;309
+165;Pousada Arco-Íris Petrópolis;Pousada;21;84
+166;Pousada Estrela do Mar Petrópolis;Pousada;32;64
+167;Ouro Verde Palace Hotel;Hotel;253;642
+168;Roots Hostel Arraial do Cabo;Hostel;;158
+169;Camping Rio Claro Arraial do Cabo;Camping;14;52
+170;Hotel Beira Rio Arraial do Cabo;Hotel;307;636
+171;Hotel Colonial;Hotel;230;227
+172;Nômade Hostel Cabo Frio;Hostel;18;104
+173;Executivo Palace Hotel;Hotel;147;425
+174;Camping Bem-te-vi Cabo Frio;Camping;18;62
+175;Hotel Premier Itatiaia;Hotel;77;239
+176;Chalés Lareira;Chalé;6;28
+177;Chalés do Vale;Chale;;82
+178;Pousada Villa Villa Verde Nova Friburgo;Pousada;30;60
+179;Orla Palace Hotel;Hotel;133;352
+180;Hostel Roots Nova Friburgo;Hostel;10;52
+181;CHALÉS CABANA VERDE;Chale;19;63
+182;Mar Azul Resort;Resort;195;744
+183;Pousada Recanto das Águas;Pousada;9;27
+184;Costa Dourada Resort Ilhabela;Resort;207;628
+185;Pousada Maré Mansa Ilhabela;Pousada;30;
+186;Flat Colonial;Flat;99;227
+187;Casa Viva Hostel Ilhabela;Hostel;16;69
+188;Pousada Girassol;Pousada;29;116
+189;Chalés Ouro Fino;Chalé;28;90
+190;Pousada Sol Nascente;Pous.;21;42
+191;Colonial Apart-hotel Campos do Jordão;Apart-hotel;32;83
+192;Pousada Villa Cantinho do Céu;Pousada;33;132
+193;Hostel Vagabundo Santos;Hostel;15;104
+194;SERRA AZUL APART-HOTEL SANTOS;Apart Hotel;55;176
+195;Ãguas Claras Resort;Resort;219;729
+196;Pousada Encanto Santos;Pousada;31;93
+197;Pousada Beija-Flor Santos;Pousada;39;78
+198;Aurora Palace Hotel;Hotel;278;776
+199;Pousada Villa Verde Ubatuba;Pousada;28;84
+200;Grande Hotel Aurora Ubatuba;Hotel;102;214
+201;Pousada Villa Encanto;Pousada;36;108
+202;Bela Vista Apart-hotel Guarujá;Apart Hotel;96;277
+203;Pousada Recanto das Águas Guarujá;Pousada;38;76
+204;Hostel Trilha GuarujÃ¡;Hostel;8;54
+205;Plaza Palace Hotel;Hotel;71;189
+206;Capital Home Service;Flat;54;52
+207;HOTEL EXECUTIVO PLAZA GUARUJÁ;Hotel;165;487
+208;Ouro Verde Apart-hotel;Apart Hotel;157;466
+209;Capital Palace Hotel;Hotel;85;251
+210;Hotel Horizonte São Sebastião;Hotel ;0;739
+211;Caminhante Hostel São Sebastião;Hostel;10;64
+212;Pousada Beija-Flor;Pousada;17;51
+213;Pousada Villa Verde;Pousada;16;48
+214;Pousada Villa Estrela do Mar Bonito;Pousada;6;18
+215;Camping Rio Claro Bonito;Camping;22;69
+216;Premier Palace Hotel Bonito;Hotel;206;420
+217;Pousada Pé na Areia;Pousada;18;54
+218;Camping Bem-te-vi Corumbá;Camping;37;118
+219;Imperial Palace Hotel Corumbá;Hotel;120;353
+220;Chalés Ouro Fino Corumbá;Chalé;4;16
+221;Hotel Mirante Plaza;Hotel;148;436
+222;Grande Hotel Panorama Gramado;Hotel;76;173
+223;Trilha Hostel;Hostel;25;173
+224;Capital Palace Hotel Gramado  ;Hotel;147;318
+225;Grande Hotel Bela Vista  ;Hotel;128;284
+226;Pousada Villa Girassol;Pousada;22;88
+227;Hotel do Sol;Hotel;109;222
+228;Chalés Ouro Fino Canela;Chalé;11;39
+229;Chalés da Montanha;Chale;8;33
+230;Central  Apart-hotel Bento Gonçalves;Apart Hotel;83;285
+231;Pousada Villa Brisa do Mar;Pousada;8;24
+232;Capital Apart-hotel Bento Gonçalves;Apart-hotel;152;470
+233;Pousada Villa Ventos do Sul;Pousada;8;32
+234;Grande Hotel Horizonte;Hotel;142;309
+235;Hotel Solar Balneário Camboriú;Hotel ;106;251
+236;Camping Mata Nativa Bombinhas;Camping;53;161
+237;Pousada Villa das Flores;Pousada;8;24
+238;Paraíso Tropical Resort;resort;548;2008
+239;CAMINHANTE HOSTEL BOMBINHAS;Hostel;20;130
+240;Pousada Villa Refúgio Bombinhas;Pousada;18;54
+241;Praia  Bonita Bombinhas Resort;Resort;258;912
+242;Águas Claras Resort Penha;Resort;598;2065
+243;Pousada Jardim Secreto Penha;Pousada;37;148
+244;Terra Nova Penha Resort;Resort;178;587
+245;Pousada Villa Sol Nascente;Pousada;;68
+246;Atlântico Palace Hotel Garopaba;Hotel;109;291
+247;Vista Mar Apart-hotel;Apart-hotel;146;450
+248;Hostel Nômade Itajaí;Hostel;39;229
+249;Praia Bonita Itajaí Resort;Resort;511;1633
+250;Hotel Orla Plaza Itajaí;Hotel;115;344
+251;Terra Nova Resort;resort;436;1436
+252;Pousada Villa das Flores Porto Seguro;Pous.;10;30
+253;Pousada Beija-Flor Porto Seguro;Pousada;30;60
+254;Pousada Maré Mansa Porto Seguro;Pousada;11;33
+255;Hotel Solar Plaza;Hotel;-1;
+256;Pousada Maré Mansa Cairu;Pousada;10;30
+257;Pousada Villa Verde Cairu;Pousada;11;44
+258;Pousada Villa Caminho do Mar;Pousada;26;52
+259;Pousada Canto da Serra;Pousada;19;57
+260;Pousada Mata Atlântica;Pousada;35;140
+261;Hotel Mirante Plaza Lençóis;Hotel;142;400
+262;POUSADA JARDIM SECRETO;Pousada;25;
+263;Pousada Villa Maré Mansa Lençóis;Pousada;7;21
+264;Pousada Ventos do Sul Ilhéus;Pousada;34;136
+265;Flat Maré Alta;flat;95;204
+266;Pousada Maré Mansa Ilhéus;Pousada;40;160
+267;Pousada Villa Caminho do Mar Ilhéus;Pousada;17;68
+268;Executivo Executive Ilhéus;Flat;134;318
+269;Grande Hotel Plaza  ;Hotel;257;811
+270;Camping Bem-te-vi Prado;Camping;32;119
+271;Pousada Sol Nascente Prado;Pousada ;33;99
+272;Grande Hotel Solar;Hotel;88;233
+273;Hotel Central Prado;Hotel;215;525
+274;Mar Azul Caravelas Resort;Resort ;487;1785
+275;Pousada Canto da Serra Caravelas;Pousada;13;39
+276;Pousada Ventos do Sul Caravelas;Pousada;7;21
+277;Pousada Arco-Íris Ipojuca;Pousada;37;111
+278;Grande Hotel Ouro Verde;Hotel ;227;486
+279;Grande Hotel Real Ipojuca;Hotel;199;631
+280;Executivo Palace Hotel Ipojuca;Hotel;257;542
+281;Flat Boulevard;Flat;173;360
+282;Pousada Maré Mansa Fernando de Noronha;Pousada;22;88
+283;do Sol Palace Hotel;Hotel;201;521
+284;PALACE PALACE HOTEL FERNANDO DE NORONHA;Hotel;206;593
+285;Executivo Apart-hotel Olinda;Apart-hotel;163;464
+286;Capital Apart-hotel Olinda;Apart-hotel;119;372
+287;Hotel Boulevard Olinda;Hotel;141;446
+288;Hotel Ouro Verde Gravatá;Hotel;230;579
+289;Chalés da Montanha Gravatá;Chalé;20;61
+290;Hostel Roots Jijoca de Jericoacoara;hostel;9;53
+291;Executivo  Apart-hotel Jijoca de Jericoacoara;Apart-hotel;111;291
+292;Pousada Girassol Jijoca de Jericoacoara;Pous.;13;39
+293;Hostel Nômade Jijoca de Jericoacoara;Hostel;15;92
+294;Caminhante Hostel Jijoca de Jericoacoara;Hostel;16;108
+295;Hotel Vista Mar Aracati;Hotel;110;254
+296;Premier Palace Hotel Aracati;Hotel;152;401
+297;Boulevard Palace Hotel;Hotel;160;484
+298;Bela Vista Palace Hotel Aracati;Hotel;255;577
+299;Hotel Park Plaza;Hotel;107;339
+300;Ouro Verde Palace Hotel Caucaia;Hotel;61;162
+301;Hotel do Sol Caucaia;Hotel;205;634
+302;Hotel Boulevard Plaza Caucaia;hotel;207;440
+303;Grande Hotel Atlântico Caucaia;Hotel;157;472
+304;Pousada Villa Girassol Tibau do Sul;Pousada;29;58
+305;Flat Horizonte;Flat;117;270
+306;Panorama Palace Hotel Tibau do Sul;Hotel;142;369
+307;Camping Mata Nativa Tibau do Sul;Camping;44;140
+308;Pousada Villa Verde São Miguel dos Milagres;Pousada ;17;51
+309;Mochileiro  Hostel;Hostel;20;91
+310;Palace Home Service;Flat;0;170
+311;Real Apart-hotel Maragogi;Apart-hotel;133;389
+312;Aurora Palace Hotel Maragogi;Hotel;121;261
+313;Pousada Maré Mansa Maragogi;Pousada;30;90
+314;Flat Premium;Flat;165;
+315;Hotel Premium Plaza Maragogi;Hotel;143;448
+316;Chalés Lareira Barreirinhas;Chalé;6;28
+317;POUSADA VILLA ENCANTO BARREIRINHAS;Pousada;7;28
+318;Pousada Pé na Areia Barreirinhas;pousada;39;78
+319;Pousada Cantinho do Céu Barreirinhas;Pousada;11;44
+320;Chalés Cabana Verde Chapada dos Guimarães;Chalé;30;97
+321;Pousada Villa Ipê Amarelo Chapada dos Guimarães;Pousada;18;54
+322;Chalés do Vale Chapada dos Guimarães;Chalé;8;35
+323;Chalés da Montanha Chapada dos Guimarães;Chale;19;68
+324;Chalés Cabana Verde Chapada dos Guimarães Zona Turística;Chalé;24;84
+325;Mochileiro Hostel Pirenópolis;Hostel;17;78
+326;Pousada Maré Mansa Pirenópolis  ;pousada;24;72
+327;Grande Hotel Maré Alta;Hotel;167;482
+328;Pousada Sol Nascente Pirenópolis;Pousada;29;116
+329;Camping Pedra Grande;Camping;21;71
+330;Pousada Cantinho do Céu Alto Paraíso de Goiás;Pousada;38;76
+331;Vagabundo Hostel Alto Paraíso de Goiás;Hostel;10;65
+332;Pousada Villa Girassol Caldas Novas;Pousada;32;128
+333;Pousada Canto da Serra Caldas Novas;pousada;29;116
+334;Pousada Pé na Areia Caldas Novas;Pousada;33;66
+335;Pousada Cantinho do Céu Caldas Novas;Pousada;21;63
+336;Pousada Canto da Serra Ouro Preto;Pousada;26;78
+337;Chalés Lareira Ouro Preto;chalé;14;58
+338;Pousada Alvorada Ouro Preto;Pousada;6;N/I
+339;Pousada Villa Arco-Íris;Pousada;33;99
+340;Hostel Casa Viva Tiradentes;Hostel;38;169
+341;Hostel Backpackers Tiradentes;Hostel;38;233
+342;Pousada Villa Mata Atlântica Tiradentes;Pousada;7;21
+343;Horizonte Palace Hotel;Hotel;82;170
+344;Pousada Jardim Secreto Tiradentes;Pousada;31;124
+345;Hotel Mirante Plaza Diamantina;Hotel;121;259
+346;Pousada Villa Sabiá Diamantina;Pousada;;33
+347;Pousada Villa Lua Cheia Diamantina;Pousada;6;12
+348;Pousada Villa Girassol Diamantina;Pousada;37;111
+349;Pousada Sabiá Capitólio;Pousada;25;75
+350;Pousada Villa Mata Atlântica Capitólio;Pousada;24;72
+351;Camping Mata Nativa Capitólio;Camping;32;101
+352;Pousada Recanto das Águas Mateiros;Pousada;14;28
+353;Pousada Jardim Secreto Mateiros;Pousada;33;66
+354;Camping Cachoeira Mateiros;Camping;12;37
+355;Pousada Jardim Secreto Mateiros Zona Turística;Pousada;12;48
+356;Premium Apart-hotel Santarém;Apart-hotel;150;462
+357;Grande Hotel Solar Santarém;Hotel;126;337
+358;Hotel Palace Parintins;Hotel;247;782
+359;Palace Palace Hotel Parintins;Hotel;195;531
+360;Orla Palace Hotel Paranaguá;Hotel;270;700
+361;Nômade Hostel Paranaguá;Hostel ;16;74
+362;Hotel do Sol Plaza;Hotel;150;421
+363;Maré Alta Palace Hotel  ;Hotel;165;161
+364;Ouro Verde Apart-hotel Morretes;Apart-hotel;160;431
+365;Pousada Cantinho do Céu Morretes;Pousada;31;124
+366;Hotel Executivo Plaza Blumenau;Hotel;167;468
+367;Hotel Serra Azul Blumenau;Hotel;90;257
+368;Atlântico Palace Hotel Blumenau;Hotel;136.0;376
+369;Hotel Maré Alta Plaza;Hotel;123;334
+370;Lagoa Azul Palace Hotel Joinville;Hotel;123;323
+371;Pousada Caminho do Mar Joinville;Pousada;12;36
+372;Hotel Imperial Plaza;Hotel;137 UHs;371
+373;Nômade Hostel Campinas;Hostel;38;252
+374;Flat Serra Azul Ribeirão Preto;Flat;210;580
+375;Palace Apart-hotel Ribeirão Preto;Apart-hotel;77;228
+376;Ouro Verde Apart-hotel Sorocaba;Apart-hotel;125;363
+377;Grande Hotel Vista Mar;Hotel;146;428
+378;Grande Hotel Park;Hotel;204;611
+379;Grande Hotel Orla;Hotel;72;223
+380;Hotel Vista Mar Barretos;Hotel;195;562
+381;Hotel Serra Azul Barretos;Hotel;59;135
+382;Maré Alta Apart-hotel;apart-hotel;35;109
+383;Hotel Park;Hotel;239;552
+384;Palace Apart-hotel Uberlândia;Apart-hotel;199;681
+385;Caminhante Hostel Uberlândia;Hostel;35;191
+386;Pousada Villa Villa Verde Uberlândia;pousada;26;78
+387;Plaza Apart-hotel Juiz de Fora;Apart-hotel;77;192
+388;Serra Azul Apart-hotel Juiz de Fora;Apart-hotel;190;553
+389;Roots Hostel Juiz de Fora;Hostel;29;156
+390;Grande Hotel Premium;Hotel;105;272
+391;Pousada Estrela do Mar Londrina;Pousada;8;24
+392;Grande Hotel Real Maringá;Hotel;42;88
+393;Trilha Hostel Maringá;Hostel;40;217
+394;Vista Mar Suites Caxias do Sul;Flat;191;448
+395;Mochileiro Hostel Caxias do Sul;Hostel;27;26
+396;Backpackers Hostel Caxias do Sul;Hostel;27;112
+397;Capital Palace Hotel Pelotas;Hotel;204;471
+398;Hotel Serra Azul Pelotas;Hotel;165;363
+399;Aurora Apart-hotel;Apart-hotel;184;488
+400;Hotel Atlântico Plaza  ;Hotel;122;317
+401;Hostel Trilha Feira de Santana;Hostel;31 UHs;183
+402;Hotel Lagoa Azul Vitória da Conquista;Hotel;114;292
+403;Hotel Ouro Verde Plaza Vitória da Conquista;Hotel;181;526
+404;Nômade Hostel Vitória da Conquista;Hostel;33;139
+405;Pousada Brisa do Mar;Pousada;16;64
+406;Hotel Colonial Caruaru;Hotel;176;404
+407;Pousada Sol Nascente Caruaru;Pous.;27;81
+408;Hotel Orla Plaza Caruaru;Hotel;174;523
+409;Hotel Lagoa Azul Plaza;Hotel;110;246
+410;Pousada Coqueiral Campina Grande;Pousada;13;26
+411;Grande Hotel Executivo Campina Grande;Hotel;86;221
+412;Hostel Caminhante MossorÃ³;Hostel;34;198
+413;Hotel MarÃ© Alta MossorÃ³;Hotel;94;199
+414;HOTEL VISTA MAR IMPERATRIZ;Hotel;151;422
+415;Grande Hotel Colonial;Hotel;179;548
+416;Brasil Apart-hotel Imperatriz;Apart Hotel;146;476
+417;Hotel Vista Mar Marabá;Hotel;204;557
+418;Vista Mar Apart-hotel Marabá;Apart-hotel;164;539
+419;Flat Central;Flat;206;497
+420;Hotel Park Petrolina;Hotel;139;308
+421;Hotel Atlântico Petrolina;Hotel;142;406
+422;Colonial Palace Hotel;Hotel;242;529
+423;Mochileiro Hostel Juazeiro do Norte;Hostel;13;74
+424;Hotel Horizonte Juazeiro do Norte;Hotel;87;262
+425;Hotel Imperial Plaza Juazeiro do Norte;Hotel;84;223
+426;Palace Palace Hotel Juazeiro do Norte;Hotel;157;474
+427;Boulevard Apart-hotel Dourados;Apart-hotel;40;138
+428;Colonial Apart-hotel Dourados;Apart-hotel;142;405
+429;Boulevard Apart-hotel RondonÃ³polis;Apart-hotel;-1;533
+430;Beira Rio Apart-hotel Rondonópolis;Apart-hotel;171;507
+431;Flat Maré Alta Rondonópolis;Flat;58;169
+432;Central Apart-hotel Anápolis;Apart-hotel;165;517
+433;Hotel Park Anápolis;Hotel;234;614
+434;Boulevard Apart-hotel AnÃ¡polis;Apart Hotel;100;255
+435;Real Palace Hotel;Hotel;143;368
+436;Bela Vista Residence;Flat;219;600
+437;Brasil Palace Hotel;Hotel;192;469
+438;Central Apart-hotel Cruzeiro do Sul;Apart-hotel;60;209
+439;Hotel Solar Cruzeiro do Sul;Hotel;139 UHs;402
+440;Ouro Verde Residence;Flat;71;148
