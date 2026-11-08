@@ -1,0 +1,98 @@
+// =============================================================
+// Projeto Turismo - Etapa 3: Power Pivot e DAX
+// Medidas propostas a partir das colunas existentes no arquivo.
+// Separador padrão DAX: vírgula. No Excel pt-BR, use ";" se necessário.
+// =============================================================
+
+// OCUPAÇÃO
+// Quantidade de quartos disponíveis no período/recorte
+Quartos Disponíveis := SUM ( fOcupacao[quartos_disponiveis] )
+
+// Quantidade de quartos ocupados no período/recorte
+Quartos Ocupados := SUM ( fOcupacao[quartos_ocupados] )
+
+// Percentual de ocupação calculado sobre os totais, não média simples das taxas
+Taxa de Ocupação % := DIVIDE ( [Quartos Ocupados], [Quartos Disponíveis] )
+
+// Total de hóspedes registrados em check-in
+Total de Hóspedes := SUM ( fOcupacao[total_hospedes_checkin] )
+
+// Média de quartos ocupados por registro de hospedagem
+Média Quartos Ocupados := AVERAGE ( fOcupacao[quartos_ocupados] )
+
+// EVENTOS
+// Quantidade de registros de eventos
+Qtd Registros de Eventos := COUNTROWS ( fEventos )
+
+// Quantidade de eventos distintos
+Qtd Tipos de Evento := DISTINCTCOUNT ( fEventos[evento_sk] )
+
+// Público confirmado acumulado
+Público Total := SUM ( fEventos[publico_real_confirmado] )
+
+// Público médio por registro de evento
+Público Médio por Registro := DIVIDE ( [Público Total], [Qtd Registros de Eventos] )
+
+// AVALIAÇÕES
+// Quantidade de avaliações válidas
+Qtd Avaliações := COUNTROWS ( fAvaliacoes )
+
+// Nota média das avaliações
+Nota Média := AVERAGE ( fAvaliacoes[nota_geral] )
+
+// HOSPEDAGEM
+// Quantidade de estabelecimentos cadastrados
+Qtd Hospedagens := DISTINCTCOUNT ( dHospedagem[hospedagem_sk] )
+
+// Capacidade total de unidades habitacionais cadastradas
+Capacidade Total UH := SUM ( dHospedagem[capacidade_total_uhs] )
+
+// Capacidade total de leitos cadastrados
+Capacidade Total Leitos := SUM ( dHospedagem[capacidade_total_leitos] )
+
+// INDICADORES DE TEMPO
+// Público confirmado no mês anterior
+Público Mês Anterior :=
+CALCULATE ( [Público Total], DATEADD ( dCalendario[data], -1, MONTH ) )
+
+// Variação percentual do público em relação ao mês anterior
+Cresc. Público MoM % :=
+VAR Atual = [Público Total]
+VAR Anterior = [Público Mês Anterior]
+RETURN
+    IF ( NOT ISBLANK ( Atual ), DIVIDE ( Atual - Anterior, Anterior ) )
+
+// INTEGRIDADE E CONFERÊNCIA
+Conf Linhas fOcupacao := COUNTROWS ( fOcupacao )
+Conf Linhas fEventos := COUNTROWS ( fEventos )
+Conf Linhas fAvaliacoes := COUNTROWS ( fAvaliacoes )
+Conf Linhas Rejeitados := COUNTROWS ( Rejeitados )
+Conf Linhas Aceitas :=
+    [Conf Linhas fOcupacao] + [Conf Linhas fEventos] + [Conf Linhas fAvaliacoes]
+Conf Linhas Lidas := [Conf Linhas Aceitas] + [Conf Linhas Rejeitados]
+
+// FKs sem correspondência nas dimensões
+Conf Ocupação sem Destino :=
+    COUNTROWS ( FILTER ( fOcupacao, ISBLANK ( RELATED ( dDestino[destino_sk] ) ) ) ) + 0
+Conf Ocupação sem Hospedagem :=
+    COUNTROWS ( FILTER ( fOcupacao, ISBLANK ( RELATED ( dHospedagem[hospedagem_sk] ) ) ) ) + 0
+Conf Ocupação sem Data :=
+    COUNTROWS ( FILTER ( fOcupacao, ISBLANK ( RELATED ( dCalendario[data] ) ) ) ) + 0
+
+Conf Eventos sem Destino :=
+    COUNTROWS ( FILTER ( fEventos, ISBLANK ( RELATED ( dDestino[destino_sk] ) ) ) ) + 0
+Conf Eventos sem Evento :=
+    COUNTROWS ( FILTER ( fEventos, ISBLANK ( RELATED ( dEvento[evento_sk] ) ) ) ) + 0
+Conf Eventos sem Data :=
+    COUNTROWS ( FILTER ( fEventos, ISBLANK ( RELATED ( dCalendario[data] ) ) ) ) + 0
+
+Conf Avaliações sem Destino :=
+    COUNTROWS ( FILTER ( fAvaliacoes, ISBLANK ( RELATED ( dDestino[destino_sk] ) ) ) ) + 0
+Conf Avaliações sem Hospedagem :=
+    COUNTROWS ( FILTER ( fAvaliacoes, ISBLANK ( RELATED ( dHospedagem[hospedagem_sk] ) ) ) ) + 0
+Conf Avaliações sem Data :=
+    COUNTROWS ( FILTER ( fAvaliacoes, ISBLANK ( RELATED ( dCalendario[data] ) ) ) ) + 0
+
+// Diferença entre linhas lidas e aceitas + rejeitadas: deve ser zero
+Conf Dif Linhas :=
+    [Conf Linhas Lidas] - ( [Conf Linhas Aceitas] + [Conf Linhas Rejeitados] )
