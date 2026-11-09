@@ -1,0 +1,133 @@
+// =============================================================
+// PROJETO EVOLUTIVO DE DADOS - MICROINFORMÁTICA APLICADA (ILP590)
+// Tema: Turismo e Eventos: Ocupação, Sazonalidade e Avaliações
+// Arquivo: dax/medidas_preliminares.dax
+// Tabela-base das medidas operacionais: fOcupacao / fEventos / fAvaliacoes
+// Separador DAX: Vírgula (Padrão internacional / DAX Studio)
+// =============================================================
+
+// -------------------------------------------------------------
+// 1. OCUPAÇÃO E HOSPEDAGEM (fOcupacao e dHospedagem)
+// -------------------------------------------------------------
+[Quartos Disponíveis] :=
+SUM ( fOcupacao[quartos_disponiveis] )
+
+[Quartos Ocupados] :=
+SUM ( fOcupacao[quartos_ocupados] )
+
+[Taxa de Ocupação %] :=
+DIVIDE ( [Quartos Ocupados], [Quartos Disponíveis], 0 )
+
+[Total de Hóspedes] :=
+SUM ( fOcupacao[total_hospedes_checkin] )
+
+[Média Quartos Ocupados] :=
+AVERAGE ( fOcupacao[quartos_ocupados] )
+
+[Qtd Hospedagens] :=
+DISTINCTCOUNT ( dHospedagem[hospedagem_sk] )
+
+[Capacidade Total UH] :=
+SUM ( dHospedagem[capacidade_total_uhs] )
+
+[Capacidade Total Leitos] :=
+SUM ( dHospedagem[capacidade_total_leitos] )
+
+// -------------------------------------------------------------
+// 2. EVENTOS E PÚBLICO (fEventos)
+// -------------------------------------------------------------
+[Qtd Registros de Eventos] :=
+COUNTROWS ( fEventos )
+
+[Qtd Tipos de Evento] :=
+DISTINCTCOUNT ( fEventos[evento_sk] )
+
+[Público Total] :=
+SUM ( fEventos[publico_real_confirmado] )
+
+[Público Médio por Registro] :=
+DIVIDE ( [Público Total], [Qtd Registros de Eventos], 0 )
+
+// -------------------------------------------------------------
+// 3. AVALIAÇÕES E SATISFAÇÃO (fAvaliacoes)
+// -------------------------------------------------------------
+[Qtd Avaliações] :=
+COUNTROWS ( fAvaliacoes )
+
+[Nota Média] :=
+AVERAGE ( fAvaliacoes[nota_geral] )
+
+// -------------------------------------------------------------
+// 4. INTELIGÊNCIA TEMPORAL (dCalendario)
+// -------------------------------------------------------------
+[Público Mês Anterior] :=
+CALCULATE (
+    [Público Total],
+    DATEADD ( dCalendario[data], -1, MONTH )
+)
+
+[Cresc. Público MoM %] :=
+VAR Atual = [Público Total]
+VAR Anterior = [Público Mês Anterior]
+RETURN
+    IF ( NOT ISBLANK ( Atual ), DIVIDE ( Atual - Anterior, Anterior, 0 ) )
+
+// -------------------------------------------------------------
+// 5. INTEGRIDADE E CONFERÊNCIA TÉCNICA (AUDITORIA DO MODELO)
+// -------------------------------------------------------------
+[Conf Linhas fOcupacao] :=
+COUNTROWS ( fOcupacao )
+
+[Conf Linhas fEventos] :=
+COUNTROWS ( fEventos )
+
+[Conf Linhas fAvaliacoes] :=
+COUNTROWS ( fAvaliacoes )
+
+[Conf Linhas Rejeitados] :=
+COUNTROWS ( Rejeitados )
+
+[Conf Linhas Aceitas] :=
+[Conf Linhas fOcupacao] + [Conf Linhas fEventos] + [Conf Linhas fAvaliacoes]
+
+[Conf Linhas Lidas] :=
+[Conf Linhas Aceitas] + [Conf Linhas Rejeitados]
+
+// Integridade Referencial: FKs sem correspondência nas dimensões (devem ser 0)
+[Conf Ocupação sem Destino] :=
+COUNTROWS ( FILTER ( fOcupacao, ISBLANK ( RELATED ( dDestino[destino_sk] ) ) ) ) + 0
+
+[Conf Ocupação sem Hospedagem] :=
+COUNTROWS ( FILTER ( fOcupacao, ISBLANK ( RELATED ( dHospedagem[hospedagem_sk] ) ) ) ) + 0
+
+[Conf Ocupação sem Data] :=
+COUNTROWS ( FILTER ( fOcupacao, ISBLANK ( RELATED ( dCalendario[data] ) ) ) ) + 0
+
+[Conf Eventos sem Destino] :=
+COUNTROWS ( FILTER ( fEventos, ISBLANK ( RELATED ( dDestino[destino_sk] ) ) ) ) + 0
+
+[Conf Eventos sem Evento] :=
+COUNTROWS ( FILTER ( fEventos, ISBLANK ( RELATED ( dEvento[evento_sk] ) ) ) ) + 0
+
+[Conf Eventos sem Data] :=
+COUNTROWS ( FILTER ( fEventos, ISBLANK ( RELATED ( dCalendario[data] ) ) ) ) + 0
+
+[Conf Avaliações sem Destino] :=
+COUNTROWS ( FILTER ( fAvaliacoes, ISBLANK ( RELATED ( dDestino[destino_sk] ) ) ) ) + 0
+
+[Conf Avaliações sem Hospedagem] :=
+COUNTROWS ( FILTER ( fAvaliacoes, ISBLANK ( RELATED ( dHospedagem[hospedagem_sk] ) ) ) ) + 0
+
+[Conf Avaliações sem Data] :=
+COUNTROWS ( FILTER ( fAvaliacoes, ISBLANK ( RELATED ( dCalendario[data] ) ) ) ) + 0
+
+// Unicidade de chaves primárias das dimensões (deve ser 0)
+[Conf PK Duplicada] :=
+( COUNTROWS ( dEvento ) - DISTINCTCOUNT ( dEvento[evento_sk] ) )
++ ( COUNTROWS ( dCalendario ) - DISTINCTCOUNT ( dCalendario[data] ) )
++ ( COUNTROWS ( dDestino ) - DISTINCTCOUNT ( dDestino[destino_sk] ) )
++ ( COUNTROWS ( dHospedagem ) - DISTINCTCOUNT ( dHospedagem[hospedagem_sk] ) )
+
+// Diferença entre linhas lidas e aceitas + rejeitadas (deve ser 0)
+[Conf Dif Linhas] :=
+[Conf Linhas Lidas] - ( [Conf Linhas Aceitas] + [Conf Linhas Rejeitados] )
