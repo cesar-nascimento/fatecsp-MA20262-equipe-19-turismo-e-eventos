@@ -1,0 +1,16 @@
+DEFINE
+MEASURE fOcupacao[Quartos Ocupados] = SUM ( fOcupacao[quartos_ocupados] )
+MEASURE fOcupacao[Quartos Disponíveis] = SUM ( fOcupacao[quartos_disponiveis] )
+MEASURE fAvaliacoes[Nota Média Válida] = CALCULATE ( AVERAGE ( fAvaliacoes[nota_geral] ), fAvaliacoes[nota_geral] > 0 )
+MEASURE fOcupacao[Ocupados c/ Evento] = VAR Pares = SUMMARIZE ( fEventos, fEventos[destino_sk], fEventos[data] ) RETURN CALCULATE ( [Quartos Ocupados], TREATAS ( Pares, fOcupacao[destino_sk], fOcupacao[data] ) )
+MEASURE fOcupacao[Disponíveis c/ Evento] = VAR Pares = SUMMARIZE ( fEventos, fEventos[destino_sk], fEventos[data] ) RETURN CALCULATE ( [Quartos Disponíveis], TREATAS ( Pares, fOcupacao[destino_sk], fOcupacao[data] ) )
+MEASURE fOcupacao[Taxa Ocupação c/ Evento %] = DIVIDE ( [Ocupados c/ Evento], [Disponíveis c/ Evento] )
+MEASURE fOcupacao[Taxa Ocupação s/ Evento %] = DIVIDE ( [Quartos Ocupados] - [Ocupados c/ Evento], [Quartos Disponíveis] - [Disponíveis c/ Evento] )
+MEASURE fOcupacao[Ganho por Evento (p.p.)] = ( [Taxa Ocupação c/ Evento %] - [Taxa Ocupação s/ Evento %] ) * 100
+
+EVALUATE
+ROW (
+    "Taxa geral", DIVIDE ( [Quartos Ocupados], [Quartos Disponíveis] ),
+    "Com evento", [Taxa Ocupação c/ Evento %],
+    "Sem evento", [Taxa Ocupação s/ Evento %]
+)
